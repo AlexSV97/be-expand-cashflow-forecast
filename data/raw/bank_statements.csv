@@ -1,0 +1,1377 @@
+﻿fecha,concepto,tipo,importe,saldo_acumulado
+2023-01-05,Pago: Nominas,gasto,-172740.0,327260.0
+2023-01-15,Ingresos varios del periodo,ingreso,2718.38,329978.38
+2023-02-01,Cobro: Retainer January 2023 - CyberSecure Consulting,ingreso,14641.0,344619.38
+2023-02-07,Pago: Material de oficina,gasto,-798.6,343820.78
+2023-02-08,Cobro: Retainer January 2023 - DataSmart Systems SA,ingreso,13576.2,357396.98
+2023-02-11,Pago: Software y SaaS,gasto,-5892.7,351504.28
+2023-02-12,Cobro: Retainer January 2023 - InduSteel Components SA,ingreso,16637.5,368141.78
+2023-02-15,Pago: Nominas,gasto,-191260.0,176881.78
+2023-02-20,Cobro: Retainer January 2023 - AppDigital Labs,ingreso,7986.0,184867.78
+2023-02-23,Pago: Alquiler oficina,gasto,-7852.9,177014.88
+2023-02-23,Cobro: Retainer January 2023 - Nexus Software Group,ingreso,12644.5,189659.38
+2023-03-04,Cobro: Retainer February 2023 - DataSmart Systems SA,ingreso,11724.9,201384.28
+2023-03-05,Cobro: Retainer February 2023 - AppDigital Labs,ingreso,6897.0,208281.28
+2023-03-07,Pago: Nominas,gasto,-183900.0,24381.28
+2023-03-07,Cobro: Retainer February 2023 - Olivares del Mediterraneo,ingreso,7477.8,31859.08
+2023-03-17,Cobro: Retainer February 2023 - CyberSecure Consulting,ingreso,12644.5,44503.58
+2023-03-18,Cobro: Retainer February 2023 - InduSteel Components SA,ingreso,14374.8,58878.38
+2023-03-19,Cobro: Retainer February 2023 - Nexus Software Group,ingreso,10914.2,69792.58
+2023-03-21,Pago: Suministros,gasto,-1137.4,68655.18
+2023-03-22,Pago: Servicios profesionales,gasto,-5154.6,63500.58
+2023-03-27,Pago: Asesoria legal local,gasto,-3702.6,59797.98
+2023-04-02,Cobro: Retainer March 2023 - AppDigital Labs,ingreso,7986.0,67783.98
+2023-04-02,Cobro: Plan de Promocion Internacional - NexaTech Devices SL - Fact,ingreso,6025.8,73809.78
+2023-04-04,Cobro: Retainer March 2023 - Embotellados del Norte SL,ingreso,9982.5,83792.28
+2023-04-05,Pago: Asesoria legal local,gasto,-3702.6,80089.68
+2023-04-06,Pago: Alquiler stands ferias,gasto,-7320.5,72769.18
+2023-04-07,Pago: Alquiler oficina,gasto,-7514.1,65255.08
+2023-04-07,Pago: Alquiler stands ferias,gasto,-14846.7,50408.38
+2023-04-07,Cobro: Retainer March 2023 - Olivares del Mediterraneo,ingreso,8651.5,59059.88
+2023-04-08,Pago: Nominas,gasto,-188840.0,-129780.12
+2023-04-11,Cobro: Retainer March 2023 - CyberSecure Consulting,ingreso,14641.0,-115139.12
+2023-04-11,Cobro: Retainer March 2023 - InduSteel Components SA,ingreso,16637.5,-98501.62
+2023-04-12,Pago: Software y SaaS,gasto,-6703.4,-105205.02
+2023-04-13,Pago: Software y SaaS,gasto,-5154.6,-110359.62
+2023-04-13,Pago: Pago Fraccionado IS,gasto,-8660.0,-119019.62
+2023-04-15,Cobro: Retainer March 2023 - DataSmart Systems SA,ingreso,13576.2,-105443.42
+2023-04-16,Cobro: Plan de Promocion Internacional - Calzados Deportivos SL - F,ingreso,13261.6,-92181.82
+2023-04-17,Pago: Alquiler oficina,gasto,-7272.1,-99453.92
+2023-04-19,Pago: Servicios profesionales,gasto,-3654.2,-103108.12
+2023-04-21,Pago: Suministros,gasto,-1113.2,-104221.32
+2023-04-25,Cobro: Retainer March 2023 - Nexus Software Group,ingreso,12644.5,-91576.82
+2023-04-28,Pago: Seguros,gasto,-1863.4,-93440.22
+2023-05-01,Pago: Alquiler oficina,gasto,-6860.7,-100300.92
+2023-05-01,Cobro: Plan de Promocion Internacional - Calzados Deportivos SL - F,ingreso,10115.6,-90185.32
+2023-05-03,Pago: Servicios profesionales,gasto,-3170.2,-93355.52
+2023-05-03,Pago: Marketing y publicidad,gasto,-14157.0,-107512.52
+2023-05-04,Cobro: Retainer April 2023 - Embotellados del Norte SL,ingreso,9982.5,-97530.02
+2023-05-05,Disposicion poliza de credito,ingreso,184200.0,86669.98
+2023-05-07,Pago: Nominas,gasto,-179300.0,-92630.02
+2023-05-08,Pago: Seguros,gasto,-1875.5,-94505.52
+2023-05-08,Cobro: Retainer April 2023 - AppDigital Labs,ingreso,7986.0,-86519.52
+2023-05-10,Cobro: Plan de Promocion Internacional - NexaTech Devices SL - Fact,ingreso,6025.8,-80493.72
+2023-05-11,Cobro: Retainer April 2023 - Alimentos del Sur SL,ingreso,11979.0,-68514.72
+2023-05-13,Pago: Alquiler oficina,gasto,-7272.1,-75786.82
+2023-05-13,Cobro: Retainer April 2023 - InnovaTech Solutions SL,ingreso,11313.5,-64473.32
+2023-05-13,Cobro: Retainer April 2023 - DataSmart Systems SA,ingreso,13576.2,-50897.12
+2023-05-14,Cobro: Retainer April 2023 - CyberSecure Consulting,ingreso,14641.0,-36256.12
+2023-05-15,Cobro: Retainer April 2023 - Nexus Software Group,ingreso,12644.5,-23611.62
+2023-05-18,Cobro: Retainer April 2023 - Olivares del Mediterraneo,ingreso,8651.5,-14960.12
+2023-05-23,Pago: Suministros,gasto,-1016.4,-15976.52
+2023-05-24,Cobro: Retainer April 2023 - Aceites y Olivares SL,ingreso,13310.0,-2666.52
+2023-05-26,Cobro: Retainer April 2023 - InduSteel Components SA,ingreso,16637.5,13970.98
+2023-06-05,Cobro: Retainer May 2023 - Aceites y Olivares SL,ingreso,12705.0,26675.98
+2023-06-07,Pago: Seguros,gasto,-1875.5,24800.48
+2023-06-08,Pago: Material de oficina,gasto,-617.1,24183.38
+2023-06-08,Cobro: Retainer May 2023 - Olivares del Mediterraneo,ingreso,8252.2,32435.58
+2023-06-09,Pago: Software y SaaS,gasto,-7175.3,25260.28
+2023-06-09,Cobro: Retainer May 2023 - Nexus Software Group,ingreso,12075.8,37336.08
+2023-06-12,Cobro: Retainer May 2023 - AppDigital Labs,ingreso,7623.0,44959.08
+2023-06-14,Pago: Asesoria legal local,gasto,-1464.1,43494.98
+2023-06-14,Cobro: Retainer May 2023 - BioTech Health SL,ingreso,10164.0,53658.98
+2023-06-14,Cobro: Retainer May 2023 - Alimentos del Sur SL,ingreso,11434.5,65093.48
+2023-06-14,Cobro: Plan de Promocion Internacional - NexaTech Devices SL - Fact,ingreso,13431.0,78524.48
+2023-06-17,Cobro: Retainer May 2023 - DataSmart Systems SA,ingreso,12959.1,91483.58
+2023-06-19,Cobro: Retainer May 2023 - Embotellados del Norte SL,ingreso,9534.8,101018.38
+2023-06-22,Pago: Nominas,gasto,-191700.0,-90681.62
+2023-06-23,Cobro: Retainer May 2023 - InnovaTech Solutions SL,ingreso,10793.2,-79888.42
+2023-06-23,Cobro: Retainer May 2023 - Frutas y Hortalizas del Norte,ingreso,10793.2,-69095.22
+2023-06-24,Cobro: Retainer May 2023 - CyberSecure Consulting,ingreso,13975.5,-55119.72
+2023-06-26,Pago: Suministros,gasto,-1161.6,-56281.32
+2023-06-26,Pago: Software y SaaS,gasto,-6134.7,-62416.02
+2023-06-27,Pago: Alquiler oficina,gasto,-7477.8,-69893.82
+2023-06-28,Cobro: Retainer May 2023 - InduSteel Components SA,ingreso,15875.2,-54018.62
+2023-07-01,Pago: Seguros,gasto,-2165.9,-56184.52
+2023-07-01,Cobro: Plan de Promocion Internacional - Calzados Deportivos SL - F,ingreso,3642.1,-52542.42
+2023-07-02,Cobro: Retainer June 2023 - Nexus Software Group,ingreso,11495.0,-41047.42
+2023-07-02,Cobro: Plan de Promocion Internacional - NexaTech Devices SL - Fact,ingreso,13431.0,-27616.42
+2023-07-05,Pago: Software y SaaS,gasto,-7139.0,-34755.42
+2023-07-06,Pago: IVA Trimestral,gasto,-40420.0,-75175.42
+2023-07-08,Pago: Nominas,gasto,-191610.0,-266785.42
+2023-07-08,Cobro: Retainer June 2023 - DataSmart Systems SA,ingreso,12342.0,-254443.42
+2023-07-09,Cobro: Retainer June 2023 - BioTech Health SL,ingreso,9680.0,-244763.42
+2023-07-11,Pago: Suministros,gasto,-1270.5,-246033.92
+2023-07-12,Cobro: Retainer June 2023 - Olivares del Mediterraneo,ingreso,7865.0,-238168.92
+2023-07-13,Pago: Material de oficina,gasto,-617.1,-238786.02
+2023-07-13,Cobro: Retainer June 2023 - CampoVerde Export SA,ingreso,8712.0,-230074.02
+2023-07-13,Cobro: Campana de Marketing Internacional - Travel Experience Group,ingreso,19723.0,-210351.02
+2023-07-16,Cobro: Retainer June 2023 - AppDigital Labs,ingreso,7260.0,-203091.02
+2023-07-17,Cobro: Retainer June 2023 - Embotellados del Norte SL,ingreso,9075.0,-194016.02
+2023-07-19,Pago: Alquiler oficina,gasto,-6691.3,-200707.32
+2023-07-20,Pago: Servicios profesionales,gasto,-3799.4,-204506.72
+2023-07-22,Cobro: Retainer June 2023 - Conservas Artesanas SL,ingreso,6655.0,-197851.72
+2023-07-23,Cobro: Retainer June 2023 - CloudNet Espana SL,ingreso,9438.0,-188413.72
+2023-07-23,Cobro: Retainer June 2023 - Alimentos del Sur SL,ingreso,10890.0,-177523.72
+2023-07-25,Cobro: Retainer June 2023 - Aceites y Olivares SL,ingreso,12100.0,-165423.72
+2023-07-26,Disposicion poliza de credito,ingreso,243600.0,78176.28
+2023-07-27,Cobro: Retainer June 2023 - CyberSecure Consulting,ingreso,13310.0,91486.28
+2023-07-27,Cobro: Retainer June 2023 - Frutas y Hortalizas del Norte,ingreso,10285.0,101771.28
+2023-07-27,Cobro: Retainer June 2023 - InduSteel Components SA,ingreso,15125.0,116896.28
+2023-07-28,Pago: Servicios profesionales,gasto,-4948.9,111947.38
+2023-07-28,Cobro: Retainer June 2023 - InnovaTech Solutions SL,ingreso,10285.0,122232.38
+2023-08-01,Pago: Alquiler oficina,gasto,-6691.3,115541.08
+2023-08-03,Cobro: Retainer July 2023 - AppDigital Labs,ingreso,6534.0,122075.08
+2023-08-06,Cobro: Retainer July 2023 - Alimentos del Sur SL,ingreso,9801.0,131876.08
+2023-08-08,Cobro: Retainer July 2023 - CampoVerde Export SA,ingreso,7840.8,139716.88
+2023-08-10,Pago: IVA Trimestral,gasto,-40420.0,99296.88
+2023-08-10,Pago: Suministros,gasto,-1379.4,97917.48
+2023-08-10,Pago: Alquiler stands ferias,gasto,-4101.9,93815.58
+2023-08-10,Cobro: Retainer July 2023 - BioTech Health SL,ingreso,8712.0,102527.58
+2023-08-12,Pago: Material de oficina,gasto,-508.2,102019.38
+2023-08-12,Cobro: Retainer July 2023 - CyberSecure Consulting,ingreso,11979.0,113998.38
+2023-08-14,Pago: Nominas,gasto,-172930.0,-58931.62
+2023-08-14,Cobro: Retainer July 2023 - Nexus Software Group,ingreso,10345.5,-48586.12
+2023-08-14,Cobro: Retainer July 2023 - Frutas y Hortalizas del Norte,ingreso,9256.5,-39329.62
+2023-08-15,Cobro: Retainer July 2023 - CloudNet Espana SL,ingreso,8494.2,-30835.42
+2023-08-15,Cobro: Plan de Promocion Internacional - Calzados Deportivos SL - F,ingreso,3642.1,-27193.32
+2023-08-15,Cobro: Campana de Marketing Internacional - Ingenieria Mecanica SL ,ingreso,3194.4,-23998.92
+2023-08-16,Cobro: Retainer July 2023 - InnovaTech Solutions SL,ingreso,9256.5,-14742.42
+2023-08-16,Cobro: Retainer July 2023 - InduSteel Components SA,ingreso,13612.5,-1129.92
+2023-08-17,Cobro: Retainer July 2023 - Conservas Artesanas SL,ingreso,5989.5,4859.58
+2023-08-19,Cobro: Retainer July 2023 - Embotellados del Norte SL,ingreso,8167.5,13027.08
+2023-08-21,Cobro: Retainer July 2023 - Aceites y Olivares SL,ingreso,10890.0,23917.08
+2023-08-22,Cobro: Retainer July 2023 - Olivares del Mediterraneo,ingreso,7078.5,30995.58
+2023-08-23,Pago: Suministros,gasto,-1113.2,29882.38
+2023-08-23,Pago: Software y SaaS,gasto,-7175.3,22707.08
+2023-08-23,Cobro: Retainer July 2023 - DataSmart Systems SA,ingreso,11107.8,33814.88
+2023-08-24,Pago: Suministros,gasto,-1270.5,32544.38
+2023-08-26,Cobro: Plan de Promocion Internacional - Calzados Deportivos SL - F,ingreso,6461.4,39005.78
+2023-09-01,Cobro: Retainer August 2023 - Nexus Software Group,ingreso,6897.0,45902.78
+2023-09-01,Cobro: Retainer August 2023 - Embotellados del Norte SL,ingreso,5445.0,51347.78
+2023-09-02,Pago: Alquiler oficina,gasto,-7308.4,44039.38
+2023-09-02,Pago: Software y SaaS,gasto,-6328.3,37711.08
+2023-09-05,Cobro: Retainer August 2023 - BioTech Health SL,ingreso,5808.0,43519.08
+2023-09-06,Pago: Alquiler stands ferias,gasto,-4101.9,39417.18
+2023-09-07,Pago: Suministros,gasto,-1113.2,38303.98
+2023-09-08,Pago: Traduccion y adaptacion,gasto,-689.7,37614.28
+2023-09-09,Pago: Alquiler oficina,gasto,-7804.5,29809.78
+2023-09-09,Cobro: Retainer August 2023 - CampoVerde Export SA,ingreso,5227.2,35036.98
+2023-09-09,Cobro: Retainer August 2023 - Olivares del Mediterraneo,ingreso,4719.0,39755.98
+2023-09-10,Pago: Nominas,gasto,-186420.0,-146664.02
+2023-09-10,Cobro: Campana de Marketing Internacional - Ingenieria Mecanica SL ,ingreso,8058.6,-138605.42
+2023-09-11,Cobro: Retainer August 2023 - Aceites y Olivares SL,ingreso,7260.0,-131345.42
+2023-09-12,Cobro: Retainer August 2023 - Alimentos del Sur SL,ingreso,6534.0,-124811.42
+2023-09-18,Cobro: Retainer August 2023 - DataSmart Systems SA,ingreso,7405.2,-117406.22
+2023-09-18,Cobro: Retainer August 2023 - Frutas y Hortalizas del Norte,ingreso,6171.0,-111235.22
+2023-09-19,Pago: Material de oficina,gasto,-496.1,-111731.32
+2023-09-19,Cobro: Retainer August 2023 - InduSteel Components SA,ingreso,9075.0,-102656.32
+2023-09-20,Pago: Suministros,gasto,-1379.4,-104035.72
+2023-09-22,Cobro: Plan de Promocion Internacional - Calzados Deportivos SL - F,ingreso,6461.4,-97574.32
+2023-09-23,Cobro: Retainer August 2023 - Conservas Artesanas SL,ingreso,3993.0,-93581.32
+2023-09-24,Cobro: Retainer August 2023 - CloudNet Espana SL,ingreso,5662.8,-87918.52
+2023-09-25,Cobro: Campana de Marketing Internacional - Ingenieria Mecanica SL ,ingreso,3194.4,-84724.12
+2023-09-27,Cobro: Retainer August 2023 - InnovaTech Solutions SL,ingreso,6171.0,-78553.12
+2023-09-27,Cobro: Retainer August 2023 - CyberSecure Consulting,ingreso,7986.0,-70567.12
+2023-09-28,Cobro: Retainer August 2023 - AppDigital Labs,ingreso,4356.0,-66211.12
+2023-10-04,Cobro: Retainer September 2023 - Alimentos del Sur SL,ingreso,11979.0,-54232.12
+2023-10-04,Cobro: Retainer September 2023 - Conservas Artesanas SL,ingreso,7320.5,-46911.62
+2023-10-04,Cobro: Plan de Promocion Internacional - Metalurgica Avanzada SA - ,ingreso,7489.9,-39421.72
+2023-10-05,Pago: Software y SaaS,gasto,-5578.1,-44999.82
+2023-10-06,Cobro: Retainer September 2023 - CloudNet Espana SL,ingreso,10381.8,-34618.02
+2023-10-07,Pago: Suministros,gasto,-992.2,-35610.22
+2023-10-07,Pago: Pago Fraccionado IS,gasto,-17470.0,-53080.22
+2023-10-07,Cobro: Retainer September 2023 - CampoVerde Export SA,ingreso,9583.2,-43497.02
+2023-10-09,Cobro: Retainer September 2023 - BioTech Health SL,ingreso,10648.0,-32849.02
+2023-10-10,Pago: Servicios profesionales,gasto,-5408.7,-38257.72
+2023-10-10,Cobro: Retainer September 2023 - DataSmart Systems SA,ingreso,13576.2,-24681.52
+2023-10-10,Cobro: Retainer September 2023 - CyberSecure Consulting,ingreso,14641.0,-10040.52
+2023-10-11,Pago: Material de oficina,gasto,-822.8,-10863.32
+2023-10-12,Cobro: Retainer September 2023 - EnerRenovables Solar SA,ingreso,13043.8,2180.48
+2023-10-13,Cobro: Retainer September 2023 - AppDigital Labs,ingreso,7986.0,10166.48
+2023-10-13,Cobro: Plan de Promocion Internacional - Cloud Infrastructure SL - ,ingreso,9171.8,19338.28
+2023-10-15,Pago: Nominas,gasto,-192060.0,-172721.72
+2023-10-16,Cobro: Retainer September 2023 - Nexus Software Group,ingreso,12644.5,-160077.22
+2023-10-17,Pago: Seguros,gasto,-1560.9,-161638.12
+2023-10-18,Pago: Servicios profesionales,gasto,-4186.6,-165824.72
+2023-10-19,Cobro: Retainer September 2023 - InnovaTech Solutions SL,ingreso,11313.5,-154511.22
+2023-10-19,Cobro: Retainer September 2023 - Olivares del Mediterraneo,ingreso,8651.5,-145859.72
+2023-10-19,Cobro: Retainer September 2023 - Aceites y Olivares SL,ingreso,13310.0,-132549.72
+2023-10-19,Cobro: Retainer September 2023 - InduSteel Components SA,ingreso,16637.5,-115912.22
+2023-10-21,Pago: Alquiler oficina,gasto,-7804.5,-123716.72
+2023-10-21,Pago: Viajes y dietas,gasto,-19747.2,-143463.92
+2023-10-22,Pago: IVA Trimestral,gasto,-42730.0,-186193.92
+2023-10-25,Cobro: Plan de Promocion Internacional - Metalurgica Avanzada SA - ,ingreso,4174.5,-182019.42
+2023-10-25,Disposicion poliza de credito,ingreso,191100.0,9080.58
+2023-10-26,Cobro: Retainer September 2023 - Frutas y Hortalizas del Norte,ingreso,11313.5,20394.08
+2023-10-28,Pago: Alquiler oficina,gasto,-7393.1,13000.98
+2023-10-28,Cobro: Retainer September 2023 - Embotellados del Norte SL,ingreso,9982.5,22983.48
+2023-11-01,Cobro: Retainer October 2023 - Aceites y Olivares SL,ingreso,13310.0,36293.48
+2023-11-01,Cobro: Retainer October 2023 - Embotellados del Norte SL,ingreso,9982.5,46275.98
+2023-11-02,Pago: Viajes y dietas,gasto,-1923.9,44352.08
+2023-11-03,Pago: Suministros,gasto,-992.2,43359.88
+2023-11-05,Cobro: Retainer October 2023 - Conservas Artesanas SL,ingreso,7320.5,50680.38
+2023-11-06,Pago: Software y SaaS,gasto,-5578.1,45102.28
+2023-11-06,Cobro: Retainer October 2023 - Frutas y Hortalizas del Norte,ingreso,11313.5,56415.78
+2023-11-07,Cobro: Retainer October 2023 - InnovaTech Solutions SL,ingreso,11313.5,67729.28
+2023-11-07,Cobro: Retainer October 2023 - DataSmart Systems SA,ingreso,13576.2,81305.48
+2023-11-08,Pago: Servicios profesionales,gasto,-3424.3,77881.18
+2023-11-08,Cobro: Retainer October 2023 - CyberSecure Consulting,ingreso,14641.0,92522.18
+2023-11-09,Cobro: Retainer October 2023 - Olivares del Mediterraneo,ingreso,8651.5,101173.68
+2023-11-10,Pago: Material de oficina,gasto,-1064.8,100108.88
+2023-11-10,Cobro: Retainer October 2023 - CampoVerde Export SA,ingreso,9583.2,109692.08
+2023-11-11,Pago: Servicios profesionales,gasto,-4186.6,105505.48
+2023-11-11,Pago: Software y SaaS,gasto,-5445.0,100060.48
+2023-11-11,Cobro: Plan de Promocion Internacional - Cloud Infrastructure SL - ,ingreso,9171.8,109232.28
+2023-11-12,Cobro: Retainer October 2023 - BioTech Health SL,ingreso,10648.0,119880.28
+2023-11-12,Cobro: Plan de Promocion Internacional - Metalurgica Avanzada SA - ,ingreso,24151.6,144031.88
+2023-11-13,Pago: Alquiler oficina,gasto,-7647.2,136384.68
+2023-11-14,Pago: Nominas,gasto,-185310.0,-48925.32
+2023-11-14,Cobro: Retainer October 2023 - Nexus Software Group,ingreso,12644.5,-36280.82
+2023-11-14,Cobro: Retainer October 2023 - Alimentos del Sur SL,ingreso,11979.0,-24301.82
+2023-11-17,Cobro: Retainer October 2023 - EnerRenovables Solar SA,ingreso,13043.8,-11258.02
+2023-11-18,Cobro: Retainer October 2023 - CloudNet Espana SL,ingreso,10381.8,-876.22
+2023-11-20,Cobro: Retainer October 2023 - AutoParts Iberica SA,ingreso,13975.5,13099.28
+2023-11-24,Pago: IVA Trimestral,gasto,-42730.0,-29630.72
+2023-11-25,Cobro: Retainer October 2023 - InduSteel Components SA,ingreso,16637.5,-12993.22
+2023-11-26,Cobro: Retainer October 2023 - AppDigital Labs,ingreso,7986.0,-5007.22
+2023-11-26,Cobro: Plan de Promocion Internacional - Cloud Infrastructure SL - ,ingreso,25192.2,20184.98
+2023-12-02,Cobro: Retainer November 2023 - DataSmart Systems SA,ingreso,12342.0,32526.98
+2023-12-04,Pago: Alquiler oficina,gasto,-7453.6,25073.38
+2023-12-04,Cobro: Retainer November 2023 - InnovaTech Solutions SL,ingreso,10285.0,35358.38
+2023-12-05,Pago: Pago Fraccionado IS,gasto,-10580.0,24778.38
+2023-12-05,Cobro: Retainer November 2023 - CyberSecure Consulting,ingreso,13310.0,38088.38
+2023-12-06,Pago: Suministros,gasto,-1367.3,36721.08
+2023-12-07,Pago: Nominas,gasto,-178230.0,-141508.92
+2023-12-08,Cobro: Retainer November 2023 - Construcciones Metalicas ML,ingreso,8470.0,-133038.92
+2023-12-09,Cobro: Retainer November 2023 - AppDigital Labs,ingreso,7260.0,-125778.92
+2023-12-09,Cobro: Retainer November 2023 - Frutas y Hortalizas del Norte,ingreso,10285.0,-115493.92
+2023-12-10,Cobro: Retainer November 2023 - Conservas Artesanas SL,ingreso,6655.0,-108838.92
+2023-12-10,Cobro: Retainer November 2023 - Embotellados del Norte SL,ingreso,9075.0,-99763.92
+2023-12-12,Pago: Software y SaaS,gasto,-4961.0,-104724.92
+2023-12-12,Cobro: Retainer November 2023 - Alimentos del Sur SL,ingreso,10890.0,-93834.92
+2023-12-12,Cobro: Retainer November 2023 - InduSteel Components SA,ingreso,15125.0,-78709.92
+2023-12-13,Cobro: Retainer November 2023 - CampoVerde Export SA,ingreso,8712.0,-69997.92
+2023-12-14,Cobro: Retainer November 2023 - AutoParts Iberica SA,ingreso,12705.0,-57292.92
+2023-12-16,Cobro: Retainer November 2023 - EnerRenovables Solar SA,ingreso,11858.0,-45434.92
+2023-12-17,Cobro: Retainer November 2023 - Destilerias del Sur SL,ingreso,9438.0,-35996.92
+2023-12-18,Pago: Material de oficina,gasto,-580.8,-36577.72
+2023-12-19,Cobro: Retainer November 2023 - CloudNet Espana SL,ingreso,9438.0,-27139.72
+2023-12-19,Cobro: Retainer November 2023 - Olivares del Mediterraneo,ingreso,7865.0,-19274.72
+2023-12-19,Cobro: Retainer November 2023 - Aceites y Olivares SL,ingreso,12100.0,-7174.72
+2023-12-20,Pago: Seguros,gasto,-2044.9,-9219.62
+2023-12-24,Cobro: Retainer November 2023 - BioTech Health SL,ingreso,9680.0,460.38
+2023-12-26,Cobro: Retainer November 2023 - Nexus Software Group,ingreso,11495.0,11955.38
+2023-12-28,Pago: Servicios profesionales,gasto,-3170.2,8785.18
+2024-01-01,Cobro: Retainer December 2023 - Cervezas Artesanas Gredos,ingreso,4404.4,13189.58
+2024-01-01,Cobro: Mision Comercial - Vinedos Solariegos SL - Factura 1/1,ingreso,20812.0,34001.58
+2024-01-04,Cobro: Retainer December 2023 - Construcciones Metalicas ML,ingreso,5929.0,39930.58
+2024-01-05,Cobro: Retainer December 2023 - Olivares del Mediterraneo,ingreso,5505.5,45436.08
+2024-01-06,Cobro: Retainer December 2023 - CyberSecure Consulting,ingreso,9317.0,54753.08
+2024-01-07,Cobro: Retainer December 2023 - Frutas y Hortalizas del Norte,ingreso,7199.5,61952.58
+2024-01-08,Pago: Servicios profesionales,gasto,-4198.7,57753.88
+2024-01-08,Cobro: Retainer December 2023 - Nexus Software Group,ingreso,8046.5,65800.38
+2024-01-09,Pago: Software y SaaS,gasto,-6521.9,59278.48
+2024-01-09,Pago: Nominas,gasto,-194020.0,-134741.52
+2024-01-09,Cobro: Retainer December 2023 - CampoVerde Export SA,ingreso,6098.4,-128643.12
+2024-01-11,Cobro: Retainer December 2023 - AppDigital Labs,ingreso,5082.0,-123561.12
+2024-01-12,Pago: Material de oficina,gasto,-786.5,-124347.62
+2024-01-13,Cobro: Retainer December 2023 - Destilerias del Sur SL,ingreso,6606.6,-117741.02
+2024-01-14,Pago: Alquiler oficina,gasto,-7066.4,-124807.42
+2024-01-15,Cobro: Retainer December 2023 - Embotellados del Norte SL,ingreso,6352.5,-118454.92
+2024-01-18,Pago: Marketing y publicidad,gasto,-3049.2,-121504.12
+2024-01-18,Cobro: Retainer December 2023 - DataSmart Systems SA,ingreso,8639.4,-112864.72
+2024-01-19,Cobro: Retainer December 2023 - EnerRenovables Solar SA,ingreso,8300.6,-104564.12
+2024-01-21,Cobro: Retainer December 2023 - InduSteel Components SA,ingreso,10587.5,-93976.62
+2024-01-22,Pago: Material de oficina,gasto,-580.8,-94557.42
+2024-01-22,Cobro: Retainer December 2023 - InnovaTech Solutions SL,ingreso,7199.5,-87357.92
+2024-01-22,Cobro: Retainer December 2023 - Conservas Artesanas SL,ingreso,4658.5,-82699.42
+2024-01-22,Cobro: Retainer December 2023 - AutoParts Iberica SA,ingreso,8893.5,-73805.92
+2024-01-24,Pago: Servicios profesionales,gasto,-5432.9,-79238.82
+2024-01-26,Cobro: Retainer December 2023 - BioTech Health SL,ingreso,6776.0,-72462.82
+2024-01-26,Cobro: Retainer December 2023 - Alimentos del Sur SL,ingreso,7623.0,-64839.82
+2024-01-27,Cobro: Retainer December 2023 - CloudNet Espana SL,ingreso,6606.6,-58233.22
+2024-01-27,Cobro: Retainer December 2023 - Aceites y Olivares SL,ingreso,8470.0,-49763.22
+2024-02-01,Pago: Servicios profesionales,gasto,-4198.7,-53961.92
+2024-02-01,Cobro: Retainer January 2024 - Cervezas Artesanas Gredos,ingreso,6921.2,-47040.72
+2024-02-04,Cobro: Retainer January 2024 - AppDigital Labs,ingreso,7986.0,-39054.72
+2024-02-04,Cobro: Retainer January 2024 - Aceites y Olivares SL,ingreso,13310.0,-25744.72
+2024-02-06,Cobro: Retainer January 2024 - BioTech Health SL,ingreso,10648.0,-15096.72
+2024-02-06,Cobro: Retainer January 2024 - Frutas y Hortalizas del Norte,ingreso,11313.5,-3783.22
+2024-02-06,Cobro: Retainer January 2024 - Destilerias del Sur SL,ingreso,10381.8,6598.58
+2024-02-07,Cobro: Retainer January 2024 - AutoParts Iberica SA,ingreso,13975.5,20574.08
+2024-02-08,Cobro: Retainer January 2024 - InnovaTech Solutions SL,ingreso,11313.5,31887.58
+2024-02-09,Cobro: Retainer January 2024 - Embotellados del Norte SL,ingreso,9982.5,41870.08
+2024-02-10,Cobro: Retainer January 2024 - Conservas Artesanas SL,ingreso,7320.5,49190.58
+2024-02-12,Pago: Software y SaaS,gasto,-6521.9,42668.68
+2024-02-14,Cobro: Retainer January 2024 - Construcciones Metalicas ML,ingreso,9317.0,51985.68
+2024-02-15,Pago: Seguros,gasto,-1766.6,50219.08
+2024-02-15,Pago: Material de oficina,gasto,-847.0,49372.08
+2024-02-15,Pago: Nominas,gasto,-176920.0,-127547.92
+2024-02-15,Cobro: Retainer January 2024 - CyberSecure Consulting,ingreso,14641.0,-112906.92
+2024-02-16,Cobro: Retainer January 2024 - InduSteel Components SA,ingreso,16637.5,-96269.42
+2024-02-17,Cobro: Retainer January 2024 - Nexus Software Group,ingreso,12644.5,-83624.92
+2024-02-18,Pago: Suministros,gasto,-1597.2,-85222.12
+2024-02-22,Pago: Seguros,gasto,-1923.9,-87146.02
+2024-02-22,Cobro: Retainer January 2024 - Alimentos del Sur SL,ingreso,11979.0,-75167.02
+2024-02-24,Cobro: Retainer January 2024 - CampoVerde Export SA,ingreso,9583.2,-65583.82
+2024-02-25,Cobro: Retainer January 2024 - CloudNet Espana SL,ingreso,10381.8,-55202.02
+2024-02-27,Pago: Alquiler oficina,gasto,-7078.5,-62280.52
+2024-02-27,Cobro: Retainer January 2024 - EnerRenovables Solar SA,ingreso,13043.8,-49236.72
+2024-02-28,Cobro: Retainer January 2024 - Olivares del Mediterraneo,ingreso,8651.5,-40585.22
+2024-03-01,Pago: Asesoria legal local,gasto,-2238.5,-42823.72
+2024-03-01,Cobro: Retainer February 2024 - InnovaTech Solutions SL,ingreso,9776.8,-33046.92
+2024-03-02,Cobro: Retainer February 2024 - Embotellados del Norte SL,ingreso,8615.2,-24431.72
+2024-03-02,Cobro: Retainer February 2024 - ElecTech Sistemas SL,ingreso,9425.9,-15005.82
+2024-03-03,Cobro: Retainer February 2024 - Nexus Software Group,ingreso,10914.2,-4091.62
+2024-03-04,Pago: Suministros,gasto,-1524.6,-5616.22
+2024-03-05,Cobro: Retainer February 2024 - Destilerias del Sur SL,ingreso,8966.1,3349.88
+2024-03-07,Cobro: Retainer February 2024 - Olivares del Mediterraneo,ingreso,7477.8,10827.68
+2024-03-08,Cobro: Retainer February 2024 - AppDigital Labs,ingreso,6897.0,17724.68
+2024-03-10,Cobro: Retainer February 2024 - EnerRenovables Solar SA,ingreso,11265.1,28989.78
+2024-03-13,Pago: Suministros,gasto,-1427.8,27561.98
+2024-03-13,Cobro: Retainer February 2024 - CyberSecure Consulting,ingreso,12644.5,40206.48
+2024-03-15,Pago: Alquiler oficina,gasto,-7114.8,33091.68
+2024-03-15,Cobro: Retainer February 2024 - Conservas Artesanas SL,ingreso,6316.2,39407.88
+2024-03-16,Cobro: Retainer February 2024 - DataSmart Systems SA,ingreso,11724.9,51132.78
+2024-03-16,Cobro: Retainer February 2024 - BioTech Health SL,ingreso,9196.0,60328.78
+2024-03-17,Pago: Seguros,gasto,-1742.4,58586.38
+2024-03-17,Cobro: Retainer February 2024 - CloudNet Espana SL,ingreso,8966.1,67552.48
+2024-03-18,Pago: Nominas,gasto,-182870.0,-115317.52
+2024-03-21,Pago: Servicios profesionales,gasto,-3605.8,-118923.32
+2024-03-21,Cobro: Retainer February 2024 - Frutas y Hortalizas del Norte,ingreso,9776.8,-109146.52
+2024-03-23,Pago: Material de oficina,gasto,-798.6,-109945.12
+2024-03-24,Cobro: Retainer February 2024 - CampoVerde Export SA,ingreso,8276.4,-101668.72
+2024-03-24,Cobro: Retainer February 2024 - Aceites y Olivares SL,ingreso,11495.0,-90173.72
+2024-03-24,Cobro: Retainer February 2024 - InduSteel Components SA,ingreso,14374.8,-75798.92
+2024-03-27,Cobro: Retainer February 2024 - Construcciones Metalicas ML,ingreso,8046.5,-67752.42
+2024-03-27,Cobro: Retainer February 2024 - Cervezas Artesanas Gredos,ingreso,5977.4,-61775.02
+2024-03-28,Cobro: Retainer February 2024 - AutoParts Iberica SA,ingreso,12075.8,-49699.22
+2024-04-01,Pago: IVA Trimestral,gasto,-28070.0,-77769.22
+2024-04-01,Cobro: Retainer March 2024 - Frutas y Hortalizas del Norte,ingreso,11313.5,-66455.72
+2024-04-01,Cobro: Retainer March 2024 - Cervezas Artesanas Gredos,ingreso,6921.2,-59534.52
+2024-04-02,Cobro: Retainer March 2024 - AppDigital Labs,ingreso,7986.0,-51548.52
+2024-04-04,Cobro: Retainer March 2024 - Nexus Software Group,ingreso,12644.5,-38904.02
+2024-04-05,Cobro: Retainer March 2024 - AutoParts Iberica SA,ingreso,13975.5,-24928.52
+2024-04-06,Cobro: Retainer March 2024 - CampoVerde Export SA,ingreso,9583.2,-15345.32
+2024-04-08,Pago: Alquiler oficina,gasto,-7199.5,-22544.82
+2024-04-08,Cobro: Plan Integral de Internacionalizacion - DataCenter Solutions,ingreso,15633.2,-6911.62
+2024-04-10,Pago: Pago Fraccionado IS,gasto,-17370.0,-24281.62
+2024-04-11,Pago: Seguros,gasto,-1694.0,-25975.62
+2024-04-11,Pago: Asesoria legal local,gasto,-2032.8,-28008.42
+2024-04-11,Cobro: Retainer March 2024 - Olivares del Mediterraneo,ingreso,8651.5,-19356.92
+2024-04-11,Cobro: Retainer March 2024 - Construcciones Metalicas ML,ingreso,9317.0,-10039.92
+2024-04-12,Cobro: Retainer March 2024 - Aceites y Olivares SL,ingreso,13310.0,3270.08
+2024-04-14,Pago: Software y SaaS,gasto,-5602.3,-2332.22
+2024-04-15,Pago: Nominas,gasto,-190720.0,-193052.22
+2024-04-15,Cobro: Retainer March 2024 - Conservas Artesanas SL,ingreso,7320.5,-185731.72
+2024-04-16,Pago: Seguros,gasto,-1742.4,-187474.12
+2024-04-17,Cobro: Plan de Promocion Internacional - Diseno y Hogar SA - Factur,ingreso,3412.2,-184061.92
+2024-04-18,Cobro: Retainer March 2024 - CloudNet Espana SL,ingreso,10381.8,-173680.12
+2024-04-18,Cobro: Retainer March 2024 - InduSteel Components SA,ingreso,16637.5,-157042.62
+2024-04-19,Pago: Material de oficina,gasto,-1064.8,-158107.42
+2024-04-19,Cobro: Retainer March 2024 - Soluciones Logisticas ML,ingreso,9982.5,-148124.92
+2024-04-21,Cobro: Retainer March 2024 - DataSmart Systems SA,ingreso,13576.2,-134548.72
+2024-04-21,Cobro: Retainer March 2024 - BioTech Health SL,ingreso,10648.0,-123900.72
+2024-04-21,Cobro: Retainer March 2024 - EnerRenovables Solar SA,ingreso,13043.8,-110856.92
+2024-04-22,Cobro: Retainer March 2024 - Destilerias del Sur SL,ingreso,10381.8,-100475.12
+2024-04-23,Pago: Suministros,gasto,-1427.8,-101902.92
+2024-04-24,Pago: Marketing y publicidad,gasto,-5396.6,-107299.52
+2024-04-24,Cobro: Retainer March 2024 - Embotellados del Norte SL,ingreso,9982.5,-97317.02
+2024-04-24,Cobro: Retainer March 2024 - ElecTech Sistemas SL,ingreso,10914.2,-86402.82
+2024-04-26,Pago: Suministros,gasto,-1246.3,-87649.12
+2024-04-26,Pago: Software y SaaS,gasto,-7429.4,-95078.52
+2024-04-27,Pago: Servicios profesionales,gasto,-4477.0,-99555.52
+2024-04-27,Cobro: Retainer March 2024 - InnovaTech Solutions SL,ingreso,11313.5,-88242.02
+2024-04-28,Cobro: Retainer March 2024 - CyberSecure Consulting,ingreso,14641.0,-73601.02
+2024-05-03,Pago: Servicios profesionales,gasto,-4319.7,-77920.72
+2024-05-03,Cobro: Retainer April 2024 - Embotellados del Norte SL,ingreso,9982.5,-67938.22
+2024-05-03,Cobro: Plan de Promocion Internacional - Cultivos Hidroponicos SL -,ingreso,3085.5,-64852.72
+2024-05-04,Cobro: Retainer April 2024 - CloudNet Espana SL,ingreso,10381.8,-54470.92
+2024-05-04,Cobro: Retainer April 2024 - CyberSecure Consulting,ingreso,14641.0,-39829.92
+2024-05-04,Cobro: Retainer April 2024 - AppDigital Labs,ingreso,7986.0,-31843.92
+2024-05-05,Pago: Alquiler oficina,gasto,-7199.5,-39043.42
+2024-05-05,Cobro: Retainer April 2024 - Destilerias del Sur SL,ingreso,10381.8,-28661.62
+2024-05-08,Pago: Traduccion y adaptacion,gasto,-1488.3,-30149.92
+2024-05-08,Cobro: Retainer April 2024 - CampoVerde Export SA,ingreso,9583.2,-20566.72
+2024-05-08,Cobro: Retainer April 2024 - Conservas Artesanas SL,ingreso,7320.5,-13246.22
+2024-05-08,Cobro: Retainer April 2024 - Cervezas Artesanas Gredos,ingreso,6921.2,-6325.02
+2024-05-09,Pago: Suministros,gasto,-1415.7,-7740.72
+2024-05-09,Cobro: Retainer April 2024 - Soluciones Logisticas ML,ingreso,9982.5,2241.78
+2024-05-10,Cobro: Retainer April 2024 - DataSmart Systems SA,ingreso,13576.2,15817.98
+2024-05-11,Cobro: Retainer April 2024 - InnovaTech Solutions SL,ingreso,11313.5,27131.48
+2024-05-12,Cobro: Retainer April 2024 - BioTech Health SL,ingreso,10648.0,37779.48
+2024-05-12,Cobro: Retainer April 2024 - InduSteel Components SA,ingreso,16637.5,54416.98
+2024-05-12,Cobro: Plan de Promocion Internacional - Cultivos Hidroponicos SL -,ingreso,15548.5,69965.48
+2024-05-13,Pago: Nominas,gasto,-175620.0,-105654.52
+2024-05-13,Cobro: Retainer April 2024 - Frutas y Hortalizas del Norte,ingreso,11313.5,-94341.02
+2024-05-14,Cobro: Retainer April 2024 - EnerRenovables Solar SA,ingreso,13043.8,-81297.22
+2024-05-15,Cobro: Retainer April 2024 - Construcciones Metalicas ML,ingreso,9317.0,-71980.22
+2024-05-15,Cobro: Retainer April 2024 - Bodegas Solariego SA,ingreso,12644.5,-59335.72
+2024-05-18,Cobro: Retainer April 2024 - AutoParts Iberica SA,ingreso,13975.5,-45360.22
+2024-05-20,Pago: Software y SaaS,gasto,-5602.3,-50962.52
+2024-05-21,Pago: IVA Trimestral,gasto,-28070.0,-79032.52
+2024-05-21,Cobro: Retainer April 2024 - Aceites y Olivares SL,ingreso,13310.0,-65722.52
+2024-05-23,Pago: Marketing y publicidad,gasto,-12995.4,-78717.92
+2024-05-23,Cobro: Plan Integral de Internacionalizacion - DataCenter Solutions,ingreso,15633.2,-63084.72
+2024-05-25,Cobro: Retainer April 2024 - Nexus Software Group,ingreso,12644.5,-50440.22
+2024-05-25,Cobro: Retainer April 2024 - ElecTech Sistemas SL,ingreso,10914.2,-39526.02
+2024-05-28,Cobro: Retainer April 2024 - Olivares del Mediterraneo,ingreso,8651.5,-30874.52
+2024-06-01,Cobro: Retainer May 2024 - Construcciones Metalicas ML,ingreso,8893.5,-21981.02
+2024-06-01,Cobro: Retainer May 2024 - Soluciones Logisticas ML,ingreso,9534.8,-12446.22
+2024-06-01,Cobro: Retainer May 2024 - Vinedos del Valle SL,ingreso,7623.0,-4823.22
+2024-06-02,Cobro: Retainer May 2024 - Embotellados del Norte SL,ingreso,9534.8,4711.58
+2024-06-05,Cobro: Retainer May 2024 - TecniMaquinaria SL,ingreso,11688.6,16400.18
+2024-06-06,Cobro: Plan Integral de Internacionalizacion - Sistemas Embebidos S,ingreso,12668.7,29068.88
+2024-06-07,Cobro: Retainer May 2024 - CloudNet Espana SL,ingreso,9909.9,38978.78
+2024-06-07,Cobro: Retainer May 2024 - ElecTech Sistemas SL,ingreso,10418.1,49396.88
+2024-06-07,Cobro: Retainer May 2024 - Destilerias del Sur SL,ingreso,9909.9,59306.78
+2024-06-08,Cobro: Retainer May 2024 - DataSmart Systems SA,ingreso,12959.1,72265.88
+2024-06-10,Cobro: Retainer May 2024 - InnovaTech Solutions SL,ingreso,10793.2,83059.08
+2024-06-12,Pago: Alquiler oficina,gasto,-7780.3,75278.78
+2024-06-12,Pago: Nominas,gasto,-182890.0,-107611.22
+2024-06-13,Pago: Seguros,gasto,-2153.8,-109765.02
+2024-06-13,Cobro: Retainer May 2024 - Nexus Software Group,ingreso,12075.8,-97689.22
+2024-06-15,Pago: Software y SaaS,gasto,-6921.2,-104610.42
+2024-06-15,Cobro: Retainer May 2024 - Conservas Artesanas SL,ingreso,6993.8,-97616.62
+2024-06-17,Cobro: Retainer May 2024 - Cervezas Artesanas Gredos,ingreso,6606.6,-91010.02
+2024-06-18,Cobro: Retainer May 2024 - EnerRenovables Solar SA,ingreso,12450.9,-78559.12
+2024-06-19,Cobro: Retainer May 2024 - Olivares del Mediterraneo,ingreso,8252.2,-70306.92
+2024-06-19,Cobro: Retainer May 2024 - AutoParts Iberica SA,ingreso,13334.2,-56972.72
+2024-06-20,Pago: Material de oficina,gasto,-992.2,-57964.92
+2024-06-20,Pago: Suministros,gasto,-1040.6,-59005.52
+2024-06-22,Cobro: Retainer May 2024 - Aceites y Olivares SL,ingreso,12705.0,-46300.52
+2024-06-22,Cobro: Retainer May 2024 - InduSteel Components SA,ingreso,15875.2,-30425.32
+2024-06-24,Cobro: Retainer May 2024 - AppDigital Labs,ingreso,7623.0,-22802.32
+2024-06-24,Cobro: Retainer May 2024 - Frutas y Hortalizas del Norte,ingreso,10793.2,-12009.12
+2024-06-25,Cobro: Retainer May 2024 - Gourmet Seleccion Espana,ingreso,9147.6,-2861.52
+2024-06-26,Cobro: Retainer May 2024 - CyberSecure Consulting,ingreso,13975.5,11113.98
+2024-06-27,Cobro: Retainer May 2024 - BioTech Health SL,ingreso,10164.0,21277.98
+2024-06-28,Cobro: Retainer May 2024 - Bodegas Solariego SA,ingreso,12075.8,33353.78
+2024-07-01,Cobro: Retainer June 2024 - CyberSecure Consulting,ingreso,13310.0,46663.78
+2024-07-01,Cobro: Plan Integral de Internacionalizacion - DataCenter Solutions,ingreso,11349.8,58013.58
+2024-07-02,Cobro: Retainer June 2024 - Embotellados del Norte SL,ingreso,9075.0,67088.58
+2024-07-02,Cobro: Retainer June 2024 - Destilerias del Sur SL,ingreso,9438.0,76526.58
+2024-07-03,Cobro: Retainer June 2024 - InnovaTech Solutions SL,ingreso,10285.0,86811.58
+2024-07-03,Cobro: Retainer June 2024 - EnerRenovables Solar SA,ingreso,11858.0,98669.58
+2024-07-04,Cobro: Retainer June 2024 - Conservas Artesanas SL,ingreso,6655.0,105324.58
+2024-07-05,Cobro: Retainer June 2024 - Construcciones Metalicas ML,ingreso,8470.0,113794.58
+2024-07-06,Pago: Nominas,gasto,-186540.0,-72745.42
+2024-07-06,Cobro: Retainer June 2024 - Nexus Software Group,ingreso,11495.0,-61250.42
+2024-07-07,Pago: IVA Trimestral,gasto,-39430.0,-100680.42
+2024-07-08,Pago: Seguros,gasto,-2153.8,-102834.22
+2024-07-08,Pago: Seguros,gasto,-1597.2,-104431.42
+2024-07-10,Cobro: Retainer June 2024 - Frutas y Hortalizas del Norte,ingreso,10285.0,-94146.42
+2024-07-11,Pago: Suministros,gasto,-1064.8,-95211.22
+2024-07-11,Cobro: Retainer June 2024 - Olivares del Mediterraneo,ingreso,7865.0,-87346.22
+2024-07-11,Cobro: Plan de Promocion Internacional - Diseno y Hogar SA - Factur,ingreso,2480.5,-84865.72
+2024-07-12,Cobro: Retainer June 2024 - TecniMaquinaria SL,ingreso,11132.0,-73733.72
+2024-07-13,Cobro: Retainer June 2024 - InduSteel Components SA,ingreso,15125.0,-58608.72
+2024-07-14,Cobro: Retainer June 2024 - Aceites y Olivares SL,ingreso,12100.0,-46508.72
+2024-07-15,Cobro: Retainer June 2024 - BioTech Health SL,ingreso,9680.0,-36828.72
+2024-07-16,Cobro: Retainer June 2024 - Mecanica Precision SL,ingreso,10648.0,-26180.72
+2024-07-17,Pago: Material de oficina,gasto,-931.7,-27112.42
+2024-07-17,Cobro: Retainer June 2024 - Cervezas Artesanas Gredos,ingreso,6292.0,-20820.42
+2024-07-18,Cobro: Retainer June 2024 - DataSmart Systems SA,ingreso,12342.0,-8478.42
+2024-07-19,Pago: Software y SaaS,gasto,-6921.2,-15399.62
+2024-07-19,Cobro: Retainer June 2024 - ElecTech Sistemas SL,ingreso,9922.0,-5477.62
+2024-07-20,Pago: Asesoria legal local,gasto,-3751.0,-9228.62
+2024-07-20,Cobro: Retainer June 2024 - Bodegas Montealto SA,ingreso,9680.0,451.38
+2024-07-21,Cobro: Retainer June 2024 - Soluciones Logisticas ML,ingreso,9075.0,9526.38
+2024-07-21,Cobro: Retainer June 2024 - Vinedos del Valle SL,ingreso,7260.0,16786.38
+2024-07-21,Cobro: Retainer June 2024 - Gourmet Seleccion Espana,ingreso,8712.0,25498.38
+2024-07-22,Cobro: Retainer June 2024 - AutoParts Iberica SA,ingreso,12705.0,38203.38
+2024-07-25,Pago: Servicios profesionales,gasto,-5372.4,32830.98
+2024-07-25,Cobro: Retainer June 2024 - AppDigital Labs,ingreso,7260.0,40090.98
+2024-07-27,Cobro: Retainer June 2024 - CloudNet Espana SL,ingreso,9438.0,49528.98
+2024-07-27,Cobro: Retainer June 2024 - Bodegas Solariego SA,ingreso,11495.0,61023.98
+2024-08-01,Pago: Software y SaaS,gasto,-7453.6,53570.38
+2024-08-01,Cobro: Plan de Promocion Internacional - Equipos Industriales ML - ,ingreso,4404.4,57974.78
+2024-08-02,Pago: Nominas,gasto,-185120.0,-127145.22
+2024-08-03,Cobro: Retainer July 2024 - Aceites y Olivares SL,ingreso,10890.0,-116255.22
+2024-08-04,Cobro: Retainer July 2024 - InnovaTech Solutions SL,ingreso,9256.5,-106998.72
+2024-08-04,Cobro: Retainer July 2024 - Vinedos del Valle SL,ingreso,6534.0,-100464.72
+2024-08-05,Cobro: Retainer July 2024 - CyberSecure Consulting,ingreso,11979.0,-88485.72
+2024-08-05,Cobro: Retainer July 2024 - BioTech Health SL,ingreso,8712.0,-79773.72
+2024-08-05,Cobro: Retainer July 2024 - Destilerias del Sur SL,ingreso,8494.2,-71279.52
+2024-08-06,Cobro: Retainer July 2024 - DataSmart Systems SA,ingreso,11107.8,-60171.72
+2024-08-07,Cobro: Retainer July 2024 - Olivares del Mediterraneo,ingreso,7078.5,-53093.22
+2024-08-07,Cobro: Retainer July 2024 - ElecTech Sistemas SL,ingreso,8929.8,-44163.42
+2024-08-07,Cobro: Retainer July 2024 - Cervezas Artesanas Gredos,ingreso,5662.8,-38500.62
+2024-08-08,Cobro: Retainer July 2024 - AutoParts Iberica SA,ingreso,11434.5,-27066.12
+2024-08-09,Cobro: Retainer July 2024 - Conservas Artesanas SL,ingreso,5989.5,-21076.62
+2024-08-09,Cobro: Retainer July 2024 - Soluciones Logisticas ML,ingreso,8167.5,-12909.12
+2024-08-09,Cobro: Retainer July 2024 - Bodegas Solariego SA,ingreso,10345.5,-2563.62
+2024-08-12,Cobro: Retainer July 2024 - Embotellados del Norte SL,ingreso,8167.5,5603.88
+2024-08-12,Cobro: Retainer July 2024 - Construcciones Metalicas ML,ingreso,7623.0,13226.88
+2024-08-12,Cobro: Retainer July 2024 - Bodegas Montealto SA,ingreso,8712.0,21938.88
+2024-08-14,Cobro: Retainer July 2024 - TecniMaquinaria SL,ingreso,10018.8,31957.68
+2024-08-14,Cobro: Retainer July 2024 - Gourmet Seleccion Espana,ingreso,7840.8,39798.48
+2024-08-15,Pago: Seguros,gasto,-1597.2,38201.28
+2024-08-15,Pago: Suministros,gasto,-1149.5,37051.78
+2024-08-15,Pago: Servicios profesionales,gasto,-4948.9,32102.88
+2024-08-17,Cobro: Plan Integral de Internacionalizacion - Sistemas Embebidos S,ingreso,4343.9,36446.78
+2024-08-18,Cobro: Retainer July 2024 - CloudNet Espana SL,ingreso,8494.2,44940.98
+2024-08-18,Cobro: Retainer July 2024 - AppDigital Labs,ingreso,6534.0,51474.98
+2024-08-20,Cobro: Retainer July 2024 - InduSteel Components SA,ingreso,13612.5,65087.48
+2024-08-20,Cobro: Retainer July 2024 - HotelSun International SA,ingreso,13068.0,78155.48
+2024-08-22,Cobro: Retainer July 2024 - Viajes y Negocios Globales,ingreso,9256.5,87411.98
+2024-08-23,Cobro: Retainer July 2024 - Frutas y Hortalizas del Norte,ingreso,9256.5,96668.48
+2024-08-24,Pago: Alquiler oficina,gasto,-7477.8,89190.68
+2024-08-24,Cobro: Retainer July 2024 - EnerRenovables Solar SA,ingreso,10672.2,99862.88
+2024-08-25,Cobro: Retainer July 2024 - Mecanica Precision SL,ingreso,9583.2,109446.08
+2024-08-25,Cobro: Plan Integral de Internacionalizacion - DataCenter Solutions,ingreso,11349.8,120795.88
+2024-08-27,Pago: Material de oficina,gasto,-895.4,119900.48
+2024-08-27,Cobro: Retainer July 2024 - Calzado Artesano Export SL,ingreso,6534.0,126434.48
+2024-08-28,Cobro: Retainer July 2024 - Nexus Software Group,ingreso,10345.5,136779.98
+2024-09-01,Cobro: Retainer August 2024 - AppDigital Labs,ingreso,4356.0,141135.98
+2024-09-02,Cobro: Retainer August 2024 - EnerRenovables Solar SA,ingreso,7114.8,148250.78
+2024-09-03,Cobro: Retainer August 2024 - Viajes y Negocios Globales,ingreso,6171.0,154421.78
+2024-09-04,Cobro: Retainer August 2024 - TecniMaquinaria SL,ingreso,6679.2,161100.98
+2024-09-04,Cobro: Retainer August 2024 - Vinedos del Valle SL,ingreso,4356.0,165456.98
+2024-09-04,Cobro: Retainer August 2024 - Gourmet Seleccion Espana,ingreso,5227.2,170684.18
+2024-09-05,Cobro: Retainer August 2024 - CyberSecure Consulting,ingreso,7986.0,178670.18
+2024-09-05,Cobro: Retainer August 2024 - Frutas y Hortalizas del Norte,ingreso,6171.0,184841.18
+2024-09-05,Cobro: Retainer August 2024 - Embotellados del Norte SL,ingreso,5445.0,190286.18
+2024-09-05,Cobro: Retainer August 2024 - Bodegas Montealto SA,ingreso,5808.0,196094.18
+2024-09-06,Cobro: Retainer August 2024 - Aceites y Olivares SL,ingreso,7260.0,203354.18
+2024-09-08,Cobro: Retainer August 2024 - Soluciones Logisticas ML,ingreso,5445.0,208799.18
+2024-09-08,Cobro: Retainer August 2024 - HotelSun International SA,ingreso,8712.0,217511.18
+2024-09-09,Pago: Nominas,gasto,-189950.0,27561.18
+2024-09-10,Cobro: Retainer August 2024 - Nexus Software Group,ingreso,6897.0,34458.18
+2024-09-12,Cobro: Plan de Promocion Internacional - Equipos Industriales ML - ,ingreso,16673.8,51131.98
+2024-09-14,Cobro: Retainer August 2024 - Cervezas Artesanas Gredos,ingreso,3775.2,54907.18
+2024-09-14,Cobro: Retainer August 2024 - Eventos Corporativos Espana,ingreso,4719.0,59626.18
+2024-09-15,Pago: Alquiler oficina,gasto,-7707.7,51918.48
+2024-09-15,Cobro: Retainer August 2024 - BioTech Health SL,ingreso,5808.0,57726.48
+2024-09-17,Cobro: Retainer August 2024 - InduSteel Components SA,ingreso,9075.0,66801.48
+2024-09-18,Cobro: Retainer August 2024 - Mecanica Precision SL,ingreso,6388.8,73190.28
+2024-09-18,Cobro: Mision Comercial - Componentes del Valles SL - Factura 1/1,ingreso,35816.0,109006.28
+2024-09-20,Pago: Software y SaaS,gasto,-5711.2,103295.08
+2024-09-20,Pago: Seguros,gasto,-2093.3,101201.78
+2024-09-20,Cobro: Retainer August 2024 - Conservas Artesanas SL,ingreso,3993.0,105194.78
+2024-09-21,Cobro: Retainer August 2024 - Construcciones Metalicas ML,ingreso,5082.0,110276.78
+2024-09-22,Cobro: Retainer August 2024 - Bodegas Solariego SA,ingreso,6897.0,117173.78
+2024-09-23,Cobro: Retainer August 2024 - CloudNet Espana SL,ingreso,5662.8,122836.58
+2024-09-23,Cobro: Retainer August 2024 - ElecTech Sistemas SL,ingreso,5953.2,128789.78
+2024-09-23,Cobro: Plan de Promocion Internacional - Equipos Industriales ML - ,ingreso,11228.8,140018.58
+2024-09-24,Cobro: Retainer August 2024 - AutoParts Iberica SA,ingreso,7623.0,147641.58
+2024-09-25,Cobro: Retainer August 2024 - Olivares del Mediterraneo,ingreso,4719.0,152360.58
+2024-09-25,Cobro: Retainer August 2024 - Destilerias del Sur SL,ingreso,5662.8,158023.38
+2024-09-26,Pago: Material de oficina,gasto,-750.2,157273.18
+2024-09-26,Cobro: Retainer August 2024 - Calzado Artesano Export SL,ingreso,4356.0,161629.18
+2024-09-27,Cobro: Retainer August 2024 - InnovaTech Solutions SL,ingreso,6171.0,167800.18
+2024-09-28,Cobro: Retainer August 2024 - DataSmart Systems SA,ingreso,7405.2,175205.38
+2024-10-01,Pago: Software y SaaS,gasto,-5711.2,169494.18
+2024-10-01,Pago: IVA Trimestral,gasto,-42890.0,126604.18
+2024-10-01,Cobro: Retainer September 2024 - TecniMaquinaria SL,ingreso,12245.2,138849.38
+2024-10-02,Cobro: Retainer September 2024 - DataSmart Systems SA,ingreso,13576.2,152425.58
+2024-10-03,Pago: Alquiler oficina,gasto,-7647.2,144778.38
+2024-10-03,Cobro: Retainer September 2024 - AppDigital Labs,ingreso,7986.0,152764.38
+2024-10-04,Pago: Material de oficina,gasto,-750.2,152014.18
+2024-10-05,Cobro: Retainer September 2024 - Aceites y Olivares SL,ingreso,13310.0,165324.18
+2024-10-05,Cobro: Plan de Promocion Internacional - Hoteles con Encanto SL - F,ingreso,16504.4,181828.58
+2024-10-07,Cobro: Retainer September 2024 - Destilerias del Sur SL,ingreso,10381.8,192210.38
+2024-10-07,Cobro: Retainer September 2024 - Eventos Corporativos Espana,ingreso,8651.5,200861.88
+2024-10-10,Cobro: Retainer September 2024 - Frutas y Hortalizas del Norte,ingreso,11313.5,212175.38
+2024-10-10,Cobro: Retainer September 2024 - Bodegas Solariego SA,ingreso,12644.5,224819.88
+2024-10-11,Cobro: Retainer September 2024 - Construcciones Metalicas ML,ingreso,9317.0,234136.88
+2024-10-11,Cobro: Retainer September 2024 - ModaExport Iberica SL,ingreso,11979.0,246115.88
+2024-10-12,Pago: Nominas,gasto,-185490.0,60625.88
+2024-10-12,Cobro: Retainer September 2024 - CloudNet Espana SL,ingreso,10381.8,71007.68
+2024-10-12,Cobro: Retainer September 2024 - InduSteel Components SA,ingreso,16637.5,87645.18
+2024-10-13,Cobro: Retainer September 2024 - Embotellados del Norte SL,ingreso,9982.5,97627.68
+2024-10-15,Pago: Servicios profesionales,gasto,-3605.8,94021.88
+2024-10-15,Cobro: Retainer September 2024 - Soluciones Logisticas ML,ingreso,9982.5,104004.38
+2024-10-16,Pago: Suministros,gasto,-968.0,103036.38
+2024-10-16,Cobro: Retainer September 2024 - Nexus Software Group,ingreso,12644.5,115680.88
+2024-10-16,Cobro: Retainer September 2024 - Olivares del Mediterraneo,ingreso,8651.5,124332.38
+2024-10-16,Cobro: Retainer September 2024 - Vinedos del Valle SL,ingreso,7986.0,132318.38
+2024-10-16,Cobro: Retainer September 2024 - Gourmet Seleccion Espana,ingreso,9583.2,141901.58
+2024-10-17,Pago: Pago Fraccionado IS,gasto,-9960.0,131941.58
+2024-10-17,Cobro: Retainer September 2024 - HotelSun International SA,ingreso,15972.0,147913.58
+2024-10-17,Cobro: Retainer September 2024 - Iluminacion Decorativa SL,ingreso,11313.5,159227.08
+2024-10-18,Cobro: Retainer September 2024 - Bodegas Montealto SA,ingreso,10648.0,169875.08
+2024-10-19,Cobro: Retainer September 2024 - EnerRenovables Solar SA,ingreso,13043.8,182918.88
+2024-10-20,Cobro: Retainer September 2024 - Conservas Artesanas SL,ingreso,7320.5,190239.38
+2024-10-20,Cobro: Retainer September 2024 - AutoParts Iberica SA,ingreso,13975.5,204214.88
+2024-10-21,Cobro: Retainer September 2024 - BioTech Health SL,ingreso,10648.0,214862.88
+2024-10-24,Pago: Seguros,gasto,-1863.4,212999.48
+2024-10-25,Cobro: Retainer September 2024 - Cervezas Artesanas Gredos,ingreso,6921.2,219920.68
+2024-10-26,Cobro: Retainer September 2024 - ElecTech Sistemas SL,ingreso,10914.2,230834.88
+2024-10-27,Cobro: Retainer September 2024 - Mecanica Precision SL,ingreso,11712.8,242547.68
+2024-10-28,Cobro: Retainer September 2024 - CyberSecure Consulting,ingreso,14641.0,257188.68
+2024-10-28,Cobro: Retainer September 2024 - Viajes y Negocios Globales,ingreso,11313.5,268502.18
+2024-10-28,Cobro: Retainer September 2024 - Calzado Artesano Export SL,ingreso,7986.0,276488.18
+2024-11-01,Cobro: Retainer October 2024 - DataSmart Systems SA,ingreso,13576.2,290064.38
+2024-11-01,Cobro: Retainer October 2024 - InduSteel Components SA,ingreso,16637.5,306701.88
+2024-11-01,Cobro: Retainer October 2024 - Gourmet Seleccion Espana,ingreso,9583.2,316285.08
+2024-11-02,Cobro: Retainer October 2024 - Conservas Artesanas SL,ingreso,7320.5,323605.58
+2024-11-02,Cobro: Retainer October 2024 - HotelSun International SA,ingreso,15972.0,339577.58
+2024-11-03,Cobro: Retainer October 2024 - Olivares del Mediterraneo,ingreso,8651.5,348229.08
+2024-11-04,Cobro: Retainer October 2024 - ElecTech Sistemas SL,ingreso,10914.2,359143.28
+2024-11-06,Cobro: Retainer October 2024 - EnerRenovables Solar SA,ingreso,13043.8,372187.08
+2024-11-06,Cobro: Retainer October 2024 - Viajes y Negocios Globales,ingreso,11313.5,383500.58
+2024-11-07,Pago: Suministros,gasto,-1343.1,382157.48
+2024-11-07,Pago: Marketing y publicidad,gasto,-11785.4,370372.08
+2024-11-07,Cobro: Retainer October 2024 - Embotellados del Norte SL,ingreso,9982.5,380354.58
+2024-11-11,Cobro: Retainer October 2024 - ModaExport Iberica SL,ingreso,11979.0,392333.58
+2024-11-12,Cobro: Plan Integral de Internacionalizacion - Licores y Destilados,ingreso,5106.2,397439.78
+2024-11-13,Cobro: Retainer October 2024 - Bodegas Montealto SA,ingreso,10648.0,408087.78
+2024-11-13,Cobro: Retainer October 2024 - Bodegas Solariego SA,ingreso,12644.5,420732.28
+2024-11-13,Cobro: Retainer October 2024 - Iluminacion Decorativa SL,ingreso,11313.5,432045.78
+2024-11-15,Cobro: Retainer October 2024 - Construcciones Metalicas ML,ingreso,9317.0,441362.78
+2024-11-17,Cobro: Retainer October 2024 - AppDigital Labs,ingreso,7986.0,449348.78
+2024-11-17,Cobro: Retainer October 2024 - Frutas y Hortalizas del Norte,ingreso,11313.5,460662.28
+2024-11-18,Cobro: Retainer October 2024 - Calzado Artesano Export SL,ingreso,7986.0,468648.28
+2024-11-20,Pago: Alquiler oficina,gasto,-7260.0,461388.28
+2024-11-20,Pago: Servicios profesionales,gasto,-4428.6,456959.68
+2024-11-20,Cobro: Retainer October 2024 - Cervezas Artesanas Gredos,ingreso,6921.2,463880.88
+2024-11-21,Cobro: Retainer October 2024 - TecniMaquinaria SL,ingreso,12245.2,476126.08
+2024-11-21,Cobro: Retainer October 2024 - Soluciones Logisticas ML,ingreso,9982.5,486108.58
+2024-11-21,Cobro: Campana de Marketing Internacional - Talleres Mecanicos del ,ingreso,2613.6,488722.18
+2024-11-22,Cobro: Retainer October 2024 - CyberSecure Consulting,ingreso,14641.0,503363.18
+2024-11-22,Cobro: Retainer October 2024 - Aceites y Olivares SL,ingreso,13310.0,516673.18
+2024-11-22,Cobro: Retainer October 2024 - AutoParts Iberica SA,ingreso,13975.5,530648.68
+2024-11-23,Cobro: Retainer October 2024 - Destilerias del Sur SL,ingreso,10381.8,541030.48
+2024-11-24,Pago: Nominas,gasto,-186190.0,354840.48
+2024-11-25,Cobro: Retainer October 2024 - CloudNet Espana SL,ingreso,10381.8,365222.28
+2024-11-26,Cobro: Retainer October 2024 - Mecanica Precision SL,ingreso,11712.8,376935.08
+2024-11-26,Cobro: Retainer October 2024 - Eventos Corporativos Espana,ingreso,8651.5,385586.58
+2024-11-27,Pago: Pago Fraccionado IS,gasto,-9960.0,375626.58
+2024-11-27,Cobro: Retainer October 2024 - Nexus Software Group,ingreso,12644.5,388271.08
+2024-11-27,Cobro: Retainer October 2024 - BioTech Health SL,ingreso,10648.0,398919.08
+2024-11-27,Cobro: Retainer October 2024 - Vinedos del Valle SL,ingreso,7986.0,406905.08
+2024-12-01,Cobro: Retainer November 2024 - CloudNet Espana SL,ingreso,9438.0,416343.08
+2024-12-01,Cobro: Retainer November 2024 - BioTech Health SL,ingreso,9680.0,426023.08
+2024-12-01,Cobro: Retainer November 2024 - Juguetes del Mediterraneo,ingreso,9075.0,435098.08
+2024-12-02,Cobro: Retainer November 2024 - AutoParts Iberica SA,ingreso,12705.0,447803.08
+2024-12-02,Cobro: Retainer November 2024 - HotelSun International SA,ingreso,14520.0,462323.08
+2024-12-03,Cobro: Retainer November 2024 - Bodegas Solariego SA,ingreso,11495.0,473818.08
+2024-12-03,Cobro: Plan Integral de Internacionalizacion - Sistemas Embebidos S,ingreso,7804.5,481622.58
+2024-12-06,Cobro: Retainer November 2024 - CyberSecure Consulting,ingreso,13310.0,494932.58
+2024-12-06,Cobro: Retainer November 2024 - Embotellados del Norte SL,ingreso,9075.0,504007.58
+2024-12-06,Cobro: Retainer November 2024 - Mecanica Precision SL,ingreso,10648.0,514655.58
+2024-12-07,Pago: Suministros,gasto,-1246.3,513409.28
+2024-12-07,Cobro: Retainer November 2024 - Conservas Artesanas SL,ingreso,6655.0,520064.28
+2024-12-07,Cobro: Retainer November 2024 - InduSteel Components SA,ingreso,15125.0,535189.28
+2024-12-07,Cobro: Retainer November 2024 - Bodegas Montealto SA,ingreso,9680.0,544869.28
+2024-12-08,Cobro: Retainer November 2024 - TecniMaquinaria SL,ingreso,11132.0,556001.28
+2024-12-09,Cobro: Retainer November 2024 - Nexus Software Group,ingreso,11495.0,567496.28
+2024-12-09,Cobro: Retainer November 2024 - Construcciones Metalicas ML,ingreso,8470.0,575966.28
+2024-12-09,Cobro: Retainer November 2024 - Soluciones Logisticas ML,ingreso,9075.0,585041.28
+2024-12-09,Cobro: Retainer November 2024 - Vinedos del Valle SL,ingreso,7260.0,592301.28
+2024-12-10,Cobro: Retainer November 2024 - Aceites y Olivares SL,ingreso,12100.0,604401.28
+2024-12-11,Pago: Seguros,gasto,-1573.0,602828.28
+2024-12-11,Cobro: Retainer November 2024 - Viajes y Negocios Globales,ingreso,10285.0,613113.28
+2024-12-14,Pago: Nominas,gasto,-184520.0,428593.28
+2024-12-15,Cobro: Retainer November 2024 - ModaExport Iberica SL,ingreso,10890.0,439483.28
+2024-12-16,Pago: Pago Fraccionado IS,gasto,-17180.0,422303.28
+2024-12-16,Cobro: Retainer November 2024 - Cervezas Artesanas Gredos,ingreso,6292.0,428595.28
+2024-12-16,Cobro: Retainer November 2024 - Gourmet Seleccion Espana,ingreso,8712.0,437307.28
+2024-12-16,Cobro: Retainer November 2024 - Eventos Corporativos Espana,ingreso,7865.0,445172.28
+2024-12-17,Cobro: Retainer November 2024 - Destilerias del Sur SL,ingreso,9438.0,454610.28
+2024-12-17,Cobro: Retainer November 2024 - Iluminacion Decorativa SL,ingreso,10285.0,464895.28
+2024-12-18,Pago: Servicios profesionales,gasto,-3642.1,461253.18
+2024-12-18,Cobro: Retainer November 2024 - AppDigital Labs,ingreso,7260.0,468513.18
+2024-12-19,Pago: Alquiler oficina,gasto,-7260.0,461253.18
+2024-12-20,Pago: Material de oficina,gasto,-774.4,460478.78
+2024-12-21,Cobro: Retainer November 2024 - Calzado Artesano Export SL,ingreso,7260.0,467738.78
+2024-12-22,Pago: Software y SaaS,gasto,-7671.4,460067.38
+2024-12-22,Cobro: Retainer November 2024 - Olivares del Mediterraneo,ingreso,7865.0,467932.38
+2024-12-22,Cobro: Plan Integral de Internacionalizacion - Sistemas Embebidos S,ingreso,13939.2,481871.58
+2024-12-22,Cobro: Campana de Marketing Internacional - Talleres Mecanicos del ,ingreso,3012.9,484884.48
+2024-12-23,Cobro: Retainer November 2024 - DataSmart Systems SA,ingreso,12342.0,497226.48
+2024-12-25,Pago: Material de oficina,gasto,-665.5,496560.98
+2024-12-25,Cobro: Retainer November 2024 - ElecTech Sistemas SL,ingreso,9922.0,506482.98
+2024-12-27,Cobro: Retainer November 2024 - EnerRenovables Solar SA,ingreso,11858.0,518340.98
+2025-01-02,Cobro: Retainer December 2024 - TecniMaquinaria SL,ingreso,7792.4,526133.38
+2025-01-03,Cobro: Retainer December 2024 - Calzado Artesano Export SL,ingreso,5082.0,531215.38
+2025-01-04,Cobro: Retainer December 2024 - Vinedos del Valle SL,ingreso,5082.0,536297.38
+2025-01-04,Cobro: Retainer December 2024 - ModaExport Iberica SL,ingreso,7623.0,543920.38
+2025-01-04,Cobro: Plan Integral de Internacionalizacion - Licores y Destilados,ingreso,8542.6,552462.98
+2025-01-05,Cobro: Retainer December 2024 - AutoParts Iberica SA,ingreso,8893.5,561356.48
+2025-01-05,Cobro: Retainer December 2024 - EnerRenovables Solar SA,ingreso,8300.6,569657.08
+2025-01-05,Cobro: Retainer December 2024 - Viajes y Negocios Globales,ingreso,7199.5,576856.58
+2025-01-06,Cobro: Retainer December 2024 - Nexus Software Group,ingreso,8046.5,584903.08
+2025-01-06,Cobro: Retainer December 2024 - Aceites y Olivares SL,ingreso,8470.0,593373.08
+2025-01-07,Cobro: Retainer December 2024 - CyberSecure Consulting,ingreso,9317.0,602690.08
+2025-01-09,Pago: Alquiler oficina,gasto,-6945.4,595744.68
+2025-01-09,Pago: Viajes y dietas,gasto,-4658.5,591086.18
+2025-01-09,Cobro: Retainer December 2024 - Mecanica Precision SL,ingreso,7453.6,598539.78
+2025-01-09,Cobro: Retainer December 2024 - Hogar Diseno SL,ingreso,6098.4,604638.18
+2025-01-10,Pago: Servicios profesionales,gasto,-3460.6,601177.58
+2025-01-10,Pago: Material de oficina,gasto,-592.9,600584.68
+2025-01-10,Pago: Nominas,gasto,-172180.0,428404.68
+2025-01-10,Cobro: Retainer December 2024 - Bodegas Montealto SA,ingreso,6776.0,435180.68
+2025-01-10,Cobro: Retainer December 2024 - Cervezas Artesanas Gredos,ingreso,4404.4,439585.08
+2025-01-11,Cobro: Campana de Marketing Internacional - Talleres Mecanicos del ,ingreso,8167.5,447752.58
+2025-01-12,Pago: Alquiler oficina,gasto,-7393.1,440359.48
+2025-01-12,Cobro: Retainer December 2024 - Soluciones Logisticas ML,ingreso,6352.5,446711.98
+2025-01-12,Cobro: Retainer December 2024 - Destilerias del Sur SL,ingreso,6606.6,453318.58
+2025-01-13,Cobro: Retainer December 2024 - Eventos Corporativos Espana,ingreso,5505.5,458824.08
+2025-01-15,Cobro: Retainer December 2024 - Embotellados del Norte SL,ingreso,6352.5,465176.58
+2025-01-15,Cobro: Retainer December 2024 - Bodegas Solariego SA,ingreso,8046.5,473223.08
+2025-01-17,Cobro: Retainer December 2024 - Conservas Artesanas SL,ingreso,4658.5,477881.58
+2025-01-18,Cobro: Retainer December 2024 - Destinos Globales SL,ingreso,8470.0,486351.58
+2025-01-18,Cobro: Retainer December 2024 - Juguetes del Mediterraneo,ingreso,6352.5,492704.08
+2025-01-19,Cobro: Retainer December 2024 - DataSmart Systems SA,ingreso,8639.4,501343.48
+2025-01-19,Cobro: Retainer December 2024 - AppDigital Labs,ingreso,5082.0,506425.48
+2025-01-20,Cobro: Retainer December 2024 - BioTech Health SL,ingreso,6776.0,513201.48
+2025-01-21,Cobro: Retainer December 2024 - Construcciones Metalicas ML,ingreso,5929.0,519130.48
+2025-01-22,Cobro: Retainer December 2024 - InduSteel Components SA,ingreso,10587.5,529717.98
+2025-01-23,Cobro: Retainer December 2024 - ElecTech Sistemas SL,ingreso,6945.4,536663.38
+2025-01-24,Cobro: Retainer December 2024 - HotelSun International SA,ingreso,10164.0,546827.38
+2025-01-24,Cobro: Retainer December 2024 - Iluminacion Decorativa SL,ingreso,7199.5,554026.88
+2025-01-26,Pago: Suministros,gasto,-1246.3,552780.58
+2025-01-26,Pago: Software y SaaS,gasto,-6086.3,546694.28
+2025-01-26,Cobro: Retainer December 2024 - Olivares del Mediterraneo,ingreso,5505.5,552199.78
+2025-01-28,Cobro: Retainer December 2024 - CloudNet Espana SL,ingreso,6606.6,558806.38
+2025-01-28,Cobro: Retainer December 2024 - Gourmet Seleccion Espana,ingreso,6098.4,564904.78
+2025-02-01,Cobro: Retainer January 2025 - BioTech Health SL,ingreso,10648.0,575552.78
+2025-02-02,Cobro: Retainer January 2025 - Cervezas Artesanas Gredos,ingreso,6921.2,582473.98
+2025-02-03,Cobro: Retainer January 2025 - InduSteel Components SA,ingreso,16637.5,599111.48
+2025-02-04,Cobro: Retainer January 2025 - Calzado Artesano Export SL,ingreso,7986.0,607097.48
+2025-02-05,Cobro: Retainer January 2025 - Construcciones Metalicas ML,ingreso,9317.0,616414.48
+2025-02-06,Cobro: Retainer January 2025 - Destinos Globales SL,ingreso,13310.0,629724.48
+2025-02-07,Cobro: Retainer January 2025 - EnerRenovables Solar SA,ingreso,13043.8,642768.28
+2025-02-07,Cobro: Retainer January 2025 - Destilerias del Sur SL,ingreso,10381.8,653150.08
+2025-02-08,Pago: Alquiler stands ferias,gasto,-5735.4,647414.68
+2025-02-08,Cobro: Retainer January 2025 - Viajes y Negocios Globales,ingreso,11313.5,658728.18
+2025-02-11,Cobro: Retainer January 2025 - AutoParts Iberica SA,ingreso,13975.5,672703.68
+2025-02-12,Cobro: Retainer January 2025 - Conservas Artesanas SL,ingreso,7320.5,680024.18
+2025-02-15,Pago: Seguros,gasto,-2032.8,677991.38
+2025-02-15,Pago: Servicios profesionales,gasto,-4501.2,673490.18
+2025-02-16,Pago: Alquiler oficina,gasto,-7102.7,666387.48
+2025-02-17,Pago: Nominas,gasto,-188300.0,478087.48
+2025-02-17,Cobro: Retainer January 2025 - TecniMaquinaria SL,ingreso,12245.2,490332.68
+2025-02-17,Cobro: Retainer January 2025 - Juguetes del Mediterraneo,ingreso,9982.5,500315.18
+2025-02-17,Cobro: Retainer January 2025 - Iluminacion Decorativa SL,ingreso,11313.5,511628.68
+2025-02-18,Cobro: Retainer January 2025 - Aceites y Olivares SL,ingreso,13310.0,524938.68
+2025-02-18,Cobro: Retainer January 2025 - Embotellados del Norte SL,ingreso,9982.5,534921.18
+2025-02-18,Cobro: Retainer January 2025 - Mecanica Precision SL,ingreso,11712.8,546633.98
+2025-02-18,Cobro: Retainer January 2025 - Vinedos del Valle SL,ingreso,7986.0,554619.98
+2025-02-18,Cobro: Retainer January 2025 - Bodegas Solariego SA,ingreso,12644.5,567264.48
+2025-02-19,Cobro: Retainer January 2025 - DataSmart Systems SA,ingreso,13576.2,580840.68
+2025-02-21,Pago: Software y SaaS,gasto,-6655.0,574185.68
+2025-02-21,Cobro: Retainer January 2025 - Eventos Corporativos Espana,ingreso,8651.5,582837.18
+2025-02-21,Cobro: Retainer January 2025 - ModaExport Iberica SL,ingreso,11979.0,594816.18
+2025-02-22,Cobro: Retainer January 2025 - ElecTech Sistemas SL,ingreso,10914.2,605730.38
+2025-02-22,Cobro: Retainer January 2025 - HotelSun International SA,ingreso,15972.0,621702.38
+2025-02-23,Cobro: Retainer January 2025 - Bodegas Montealto SA,ingreso,10648.0,632350.38
+2025-02-24,Cobro: Retainer January 2025 - AppDigital Labs,ingreso,7986.0,640336.38
+2025-02-25,Cobro: Retainer January 2025 - CloudNet Espana SL,ingreso,10381.8,650718.18
+2025-02-25,Cobro: Retainer January 2025 - Nexus Software Group,ingreso,12644.5,663362.68
+2025-02-26,Pago: Software y SaaS,gasto,-6086.3,657276.38
+2025-02-26,Cobro: Retainer January 2025 - Soluciones Logisticas ML,ingreso,9982.5,667258.88
+2025-02-26,Cobro: Retainer January 2025 - Hogar Diseno SL,ingreso,9583.2,676842.08
+2025-02-28,Cobro: Retainer January 2025 - Olivares del Mediterraneo,ingreso,8651.5,685493.58
+2025-02-28,Cobro: Retainer January 2025 - Gourmet Seleccion Espana,ingreso,9583.2,695076.78
+2025-03-01,Cobro: Retainer February 2025 - Cervezas Artesanas Gredos,ingreso,5977.4,701054.18
+2025-03-02,Pago: Material de oficina,gasto,-774.4,700279.78
+2025-03-02,Cobro: Retainer February 2025 - Conservas Artesanas SL,ingreso,6316.2,706595.98
+2025-03-04,Cobro: Retainer February 2025 - AutoParts Iberica SA,ingreso,12075.8,718671.78
+2025-03-05,Pago: Software y SaaS,gasto,-5287.7,713384.08
+2025-03-07,Cobro: Retainer February 2025 - Iluminacion Decorativa SL,ingreso,9776.8,723160.88
+2025-03-08,Cobro: Retainer February 2025 - Nexus Software Group,ingreso,10914.2,734075.08
+2025-03-08,Cobro: Retainer February 2025 - InduSteel Components SA,ingreso,14374.8,748449.88
+2025-03-08,Cobro: Retainer February 2025 - Gourmet Seleccion Espana,ingreso,8276.4,756726.28
+2025-03-09,Pago: Nominas,gasto,-170590.0,586136.28
+2025-03-09,Cobro: Retainer February 2025 - Construcciones Metalicas ML,ingreso,8046.5,594182.78
+2025-03-09,Cobro: Retainer February 2025 - EnerRenovables Solar SA,ingreso,11265.1,605447.88
+2025-03-09,Cobro: Retainer February 2025 - Destinos Globales SL,ingreso,11495.0,616942.88
+2025-03-09,Cobro: Retainer February 2025 - Calzado Artesano Export SL,ingreso,6897.0,623839.88
+2025-03-10,Cobro: Retainer February 2025 - BioTech Health SL,ingreso,9196.0,633035.88
+2025-03-10,Cobro: Plan Integral de Internacionalizacion - Agencia de Negocios ,ingreso,12378.3,645414.18
+2025-03-12,Cobro: Retainer February 2025 - CyberSecure Consulting,ingreso,12644.5,658058.68
+2025-03-13,Cobro: Retainer February 2025 - ElecTech Sistemas SL,ingreso,9425.9,667484.58
+2025-03-13,Cobro: Retainer February 2025 - Bodegas Montealto SA,ingreso,9196.0,676680.58
+2025-03-13,Cobro: Retainer February 2025 - Viajes y Negocios Globales,ingreso,9776.8,686457.38
+2025-03-14,Cobro: Retainer February 2025 - Mecanica Precision SL,ingreso,10115.6,696572.98
+2025-03-16,Cobro: Retainer February 2025 - Destilerias del Sur SL,ingreso,8966.1,705539.08
+2025-03-17,Pago: Servicios profesionales,gasto,-4803.7,700735.38
+2025-03-17,Cobro: Retainer February 2025 - Eventos Corporativos Espana,ingreso,7477.8,708213.18
+2025-03-19,Cobro: Retainer February 2025 - AppDigital Labs,ingreso,6897.0,715110.18
+2025-03-19,Cobro: Retainer February 2025 - TecniMaquinaria SL,ingreso,10575.4,725685.58
+2025-03-20,Cobro: Plan de Promocion Internacional - Resorts Vacacionales SA - ,ingreso,12378.3,738063.88
+2025-03-21,Cobro: Plan Integral de Internacionalizacion - Agencia de Negocios ,ingreso,8966.1,747029.98
+2025-03-22,Cobro: Retainer January 2025 - Cervezas Artesanas Gredos,ingreso,6921.2,753951.18
+2025-03-22,Cobro: Retainer February 2025 - Hogar Diseno SL,ingreso,8276.4,762227.58
+2025-03-23,Cobro: Retainer February 2025 - Textil Hogar Internacional,ingreso,8046.5,770274.08
+2025-03-23,Cobro: Plan Integral de Internacionalizacion - Licores y Destilados,ingreso,3460.6,773734.68
+2025-03-24,Cobro: Retainer February 2025 - Olivares del Mediterraneo,ingreso,7477.8,781212.48
+2025-03-24,Cobro: Retainer February 2025 - Aceites y Olivares SL,ingreso,11495.0,792707.48
+2025-03-24,Cobro: Retainer February 2025 - HotelSun International SA,ingreso,13794.0,806501.48
+2025-03-25,Cobro: Retainer February 2025 - Vinedos del Valle SL,ingreso,6897.0,813398.48
+2025-03-25,Cobro: Retainer February 2025 - Juguetes del Mediterraneo,ingreso,8615.2,822013.68
+2025-03-26,Pago: Suministros,gasto,-1560.9,820452.78
+2025-03-26,Cobro: Retainer February 2025 - Soluciones Logisticas ML,ingreso,8615.2,829067.98
+2025-03-26,Cobro: Retainer February 2025 - Bodegas Solariego SA,ingreso,10914.2,839982.18
+2025-03-27,Pago: Alquiler oficina,gasto,-7163.2,832818.98
+2025-03-27,Cobro: Retainer January 2025 - Nexus Software Group,ingreso,12644.5,845463.48
+2025-03-28,Cobro: Retainer February 2025 - Embotellados del Norte SL,ingreso,8615.2,854078.68
+2025-03-28,Cobro: Retainer February 2025 - ModaExport Iberica SL,ingreso,10345.5,864424.18
+2025-04-01,Pago: Seguros,gasto,-1887.6,862536.58
+2025-04-02,Cobro: Retainer March 2025 - Bodegas Montealto SA,ingreso,10648.0,873184.58
+2025-04-02,Cobro: Retainer March 2025 - Cervezas Artesanas Gredos,ingreso,6921.2,880105.78
+2025-04-03,Cobro: Retainer March 2025 - Juguetes del Mediterraneo,ingreso,9982.5,890088.28
+2025-04-04,Cobro: Retainer March 2025 - Construcciones Metalicas ML,ingreso,9317.0,899405.28
+2025-04-04,Cobro: Retainer March 2025 - Viajes y Negocios Globales,ingreso,11313.5,910718.78
+2025-04-04,Cobro: Retainer March 2025 - Iluminacion Decorativa SL,ingreso,11313.5,922032.28
+2025-04-07,Cobro: Plan Integral de Internacionalizacion - Bioagro Export SL - ,ingreso,19251.1,941283.38
+2025-04-07,Cobro: Plan Integral de Internacionalizacion - Licores y Destilados,ingreso,27660.6,968943.98
+2025-04-08,Pago: Seguros,gasto,-1560.9,967383.08
+2025-04-08,Cobro: Retainer March 2025 - Gourmet Seleccion Espana,ingreso,9583.2,976966.28
+2025-04-09,Cobro: Retainer March 2025 - Aceites y Olivares SL,ingreso,13310.0,990276.28
+2025-04-10,Cobro: Retainer March 2025 - Olivares del Mediterraneo,ingreso,8651.5,998927.78
+2025-04-10,Cobro: Retainer March 2025 - Destinos Globales SL,ingreso,13310.0,1012237.78
+2025-04-10,Cobro: Retainer March 2025 - Eventos Corporativos Espana,ingreso,8651.5,1020889.28
+2025-04-10,Cobro: Retainer March 2025 - ModaExport Iberica SL,ingreso,11979.0,1032868.28
+2025-04-10,Cobro: Campana de Marketing Internacional - Maquinaria del Sur SL -,ingreso,15342.8,1048211.08
+2025-04-12,Cobro: Retainer March 2025 - DataSmart Systems SA,ingreso,13576.2,1061787.28
+2025-04-12,Cobro: Plan de Promocion Internacional - Resorts Vacacionales SA - ,ingreso,23437.7,1085224.98
+2025-04-13,Pago: Software y SaaS,gasto,-5614.4,1079610.58
+2025-04-13,Cobro: Plan Integral de Internacionalizacion - Agencia de Negocios ,ingreso,8966.1,1088576.68
+2025-04-14,Cobro: Retainer March 2025 - Embotellados del Norte SL,ingreso,9982.5,1098559.18
+2025-04-14,Cobro: Retainer March 2025 - Mecanica Precision SL,ingreso,11712.8,1110271.98
+2025-04-15,Cobro: Retainer March 2025 - ElecTech Sistemas SL,ingreso,10914.2,1121186.18
+2025-04-16,Pago: Servicios profesionales,gasto,-3690.5,1117495.68
+2025-04-16,Cobro: Retainer March 2025 - CyberSecure Consulting,ingreso,14641.0,1132136.68
+2025-04-18,Cobro: Retainer March 2025 - Bodegas Solariego SA,ingreso,12644.5,1144781.18
+2025-04-18,Cobro: Retainer February 2025 - Gourmet Seleccion Espana,ingreso,8276.4,1153057.58
+2025-04-19,Pago: Material de oficina,gasto,-907.5,1152150.08
+2025-04-19,Pago: Nominas,gasto,-194780.0,957370.08
+2025-04-19,Cobro: Retainer March 2025 - Conservas Artesanas SL,ingreso,7320.5,964690.58
+2025-04-20,Cobro: Retainer March 2025 - InduSteel Components SA,ingreso,16637.5,981328.08
+2025-04-20,Cobro: Retainer March 2025 - EnerRenovables Solar SA,ingreso,13043.8,994371.88
+2025-04-20,Cobro: Retainer March 2025 - HotelSun International SA,ingreso,15972.0,1010343.88
+2025-04-21,Pago: Servicios profesionales,gasto,-4464.9,1005878.98
+2025-04-21,Cobro: Retainer March 2025 - Calzado Artesano Export SL,ingreso,7986.0,1013864.98
+2025-04-22,Cobro: Retainer March 2025 - CloudNet Espana SL,ingreso,10381.8,1024246.78
+2025-04-22,Cobro: Retainer March 2025 - BioTech Health SL,ingreso,10648.0,1034894.78
+2025-04-22,Cobro: Retainer March 2025 - AutoParts Iberica SA,ingreso,13975.5,1048870.28
+2025-04-22,Cobro: Plan de Promocion Internacional - Muebles de Diseno SL - Fac,ingreso,8046.5,1056916.78
+2025-04-23,Cobro: Retainer March 2025 - Textil Hogar Internacional,ingreso,9317.0,1066233.78
+2025-04-23,Cobro: Plan de Promocion Internacional - Muebles de Diseno SL - Fac,ingreso,3509.0,1069742.78
+2025-04-24,Cobro: Retainer March 2025 - Nexus Software Group,ingreso,12644.5,1082387.28
+2025-04-26,Pago: Pago Fraccionado IS,gasto,-10710.0,1071677.28
+2025-04-26,Cobro: Retainer March 2025 - Vinedos del Valle SL,ingreso,7986.0,1079663.28
+2025-04-27,Pago: Suministros,gasto,-1367.3,1078295.98
+2025-04-27,Cobro: Retainer March 2025 - Soluciones Logisticas ML,ingreso,9982.5,1088278.48
+2025-04-27,Cobro: Retainer March 2025 - Hogar Diseno SL,ingreso,9583.2,1097861.68
+2025-04-28,Pago: Marketing y publicidad,gasto,-7707.7,1090153.98
+2025-04-28,Cobro: Retainer March 2025 - AppDigital Labs,ingreso,7986.0,1098139.98
+2025-05-01,Pago: Suministros,gasto,-1101.1,1097038.88
+2025-05-01,Cobro: Retainer April 2025 - Nexus Software Group,ingreso,12644.5,1109683.38
+2025-05-01,Cobro: Retainer April 2025 - AppDigital Labs,ingreso,7986.0,1117669.38
+2025-05-01,Cobro: Retainer April 2025 - Viajes y Negocios Globales,ingreso,11313.5,1128982.88
+2025-05-01,Cobro: Retainer April 2025 - Iluminacion Decorativa SL,ingreso,11313.5,1140296.38
+2025-05-03,Pago: Software y SaaS,gasto,-7175.3,1133121.08
+2025-05-03,Cobro: Retainer April 2025 - CloudNet Espana SL,ingreso,10381.8,1143502.88
+2025-05-03,Cobro: Retainer April 2025 - Construcciones Metalicas ML,ingreso,9317.0,1152819.88
+2025-05-04,Pago: Seguros,gasto,-1887.6,1150932.28
+2025-05-04,Pago: Viajes y dietas,gasto,-11095.7,1139836.58
+2025-05-04,Cobro: Retainer April 2025 - Olivares del Mediterraneo,ingreso,8651.5,1148488.08
+2025-05-04,Cobro: Retainer April 2025 - Cervezas Artesanas Gredos,ingreso,6921.2,1155409.28
+2025-05-05,Pago: Suministros,gasto,-1391.5,1154017.78
+2025-05-05,Cobro: Retainer April 2025 - Destinos Globales SL,ingreso,13310.0,1167327.78
+2025-05-06,Cobro: Retainer April 2025 - Vinedos del Valle SL,ingreso,7986.0,1175313.78
+2025-05-07,Pago: Nominas,gasto,-187000.0,988313.78
+2025-05-09,Pago: Material de oficina,gasto,-907.5,987406.28
+2025-05-09,Pago: Material de oficina,gasto,-677.6,986728.68
+2025-05-09,Cobro: Retainer April 2025 - Bodegas Montealto SA,ingreso,10648.0,997376.68
+2025-05-09,Cobro: Retainer April 2025 - HotelSun International SA,ingreso,15972.0,1013348.68
+2025-05-09,Cobro: Plan Integral de Internacionalizacion - Agencia de Negocios ,ingreso,6050.0,1019398.68
+2025-05-11,Cobro: Retainer April 2025 - Soluciones Logisticas ML,ingreso,9982.5,1029381.18
+2025-05-11,Cobro: Retainer April 2025 - Hogar Diseno SL,ingreso,9583.2,1038964.38
+2025-05-13,Cobro: Retainer April 2025 - Aceites y Olivares SL,ingreso,13310.0,1052274.38
+2025-05-14,Cobro: Retainer April 2025 - InduSteel Components SA,ingreso,16637.5,1068911.88
+2025-05-14,Cobro: Retainer April 2025 - Mecanica Precision SL,ingreso,11712.8,1080624.68
+2025-05-14,Cobro: Plan Integral de Internacionalizacion - Licores y Destilados,ingreso,27660.6,1108285.28
+2025-05-15,Cobro: Retainer April 2025 - ModaExport Iberica SL,ingreso,11979.0,1120264.28
+2025-05-15,Cobro: Plan de Promocion Internacional - Muebles de Diseno SL - Fac,ingreso,3509.0,1123773.28
+2025-05-17,Cobro: Retainer April 2025 - Textil Hogar Internacional,ingreso,9317.0,1133090.28
+2025-05-18,Pago: Seguros,gasto,-1512.5,1131577.78
+2025-05-19,Cobro: Retainer April 2025 - CyberSecure Consulting,ingreso,14641.0,1146218.78
+2025-05-19,Cobro: Retainer April 2025 - BioTech Health SL,ingreso,10648.0,1156866.78
+2025-05-19,Cobro: Retainer April 2025 - ElecTech Sistemas SL,ingreso,10914.2,1167780.98
+2025-05-23,Pago: Alquiler oficina,gasto,-6933.3,1160847.68
+2025-05-23,Cobro: Retainer April 2025 - Eventos Corporativos Espana,ingreso,8651.5,1169499.18
+2025-05-23,Cobro: Retainer April 2025 - Juguetes del Mediterraneo,ingreso,9982.5,1179481.68
+2025-05-24,Cobro: Retainer April 2025 - AutoParts Iberica SA,ingreso,13975.5,1193457.18
+2025-05-25,Cobro: Retainer April 2025 - EnerRenovables Solar SA,ingreso,13043.8,1206500.98
+2025-05-26,Cobro: Retainer April 2025 - Bodegas Solariego SA,ingreso,12644.5,1219145.48
+2025-05-26,Cobro: Retainer April 2025 - Gourmet Seleccion Espana,ingreso,9583.2,1228728.68
+2025-05-26,Cobro: Retainer April 2025 - Calzado Artesano Export SL,ingreso,7986.0,1236714.68
+2025-05-27,Cobro: Retainer April 2025 - Conservas Artesanas SL,ingreso,7320.5,1244035.18
+2025-05-27,Cobro: Retainer April 2025 - Embotellados del Norte SL,ingreso,9982.5,1254017.68
+2025-05-28,Pago: Alquiler oficina,gasto,-6776.0,1247241.68
+2025-05-28,Cobro: Retainer April 2025 - DataSmart Systems SA,ingreso,13576.2,1260817.88
+2025-06-02,Cobro: Retainer May 2025 - Embotellados del Norte SL,ingreso,9534.8,1270352.68
+2025-06-03,Pago: Seguros,gasto,-1718.2,1268634.48
+2025-06-03,Cobro: Retainer May 2025 - AppDigital Labs,ingreso,7623.0,1276257.48
+2025-06-04,Cobro: Retainer May 2025 - Cosmeticos Natural SL,ingreso,6352.5,1282609.98
+2025-06-05,Cobro: Retainer May 2025 - Vinedos del Valle SL,ingreso,7623.0,1290232.98
+2025-06-05,Cobro: Retainer May 2025 - Gourmet Seleccion Espana,ingreso,9147.6,1299380.58
+2025-06-05,Cobro: Retainer May 2025 - ModaExport Iberica SL,ingreso,11434.5,1310815.08
+2025-06-05,Cobro: Retainer May 2025 - Hogar Diseno SL,ingreso,9147.6,1319962.68
+2025-06-08,Cobro: Retainer May 2025 - Mecanica Precision SL,ingreso,11180.4,1331143.08
+2025-06-09,Cobro: Retainer May 2025 - Construcciones Metalicas ML,ingreso,8893.5,1340036.58
+2025-06-10,Pago: Suministros,gasto,-1391.5,1338645.08
+2025-06-10,Pago: Servicios profesionales,gasto,-4791.6,1333853.48
+2025-06-10,Cobro: Retainer May 2025 - BioTech Health SL,ingreso,10164.0,1344017.48
+2025-06-12,Cobro: Retainer May 2025 - Olivares del Mediterraneo,ingreso,8252.2,1352269.68
+2025-06-12,Cobro: Retainer May 2025 - Soluciones Logisticas ML,ingreso,9534.8,1361804.48
+2025-06-13,Pago: Material de oficina,gasto,-834.9,1360969.58
+2025-06-13,Cobro: Retainer May 2025 - Cervezas Artesanas Gredos,ingreso,6606.6,1367576.18
+2025-06-15,Cobro: Retainer May 2025 - Turismo Rural Experience SL,ingreso,8893.5,1376469.68
+2025-06-16,Cobro: Retainer May 2025 - CloudNet Espana SL,ingreso,9909.9,1386379.58
+2025-06-16,Cobro: Plan Integral de Internacionalizacion - Agencia de Negocios ,ingreso,6050.0,1392429.58
+2025-06-18,Cobro: Plan Integral de Internacionalizacion - Agencia de Negocios ,ingreso,2468.4,1394897.98
+2025-06-20,Pago: Suministros,gasto,-1101.1,1393796.88
+2025-06-20,Cobro: Retainer May 2025 - EnerRenovables Solar SA,ingreso,12450.9,1406247.78
+2025-06-21,Cobro: Retainer May 2025 - Eventos Corporativos Espana,ingreso,8252.2,1414499.98
+2025-06-23,Pago: Nominas,gasto,-174260.0,1240239.98
+2025-06-23,Cobro: Retainer May 2025 - Conservas Artesanas SL,ingreso,6993.8,1247233.78
+2025-06-23,Cobro: Retainer May 2025 - ElecTech Sistemas SL,ingreso,10418.1,1257651.88
+2025-06-23,Cobro: Retainer May 2025 - Bodegas Solariego SA,ingreso,12075.8,1269727.68
+2025-06-23,Cobro: Plan Integral de Internacionalizacion - Bioagro Export SL - ,ingreso,7030.1,1276757.78
+2025-06-24,Pago: Logistica y envios,gasto,-810.7,1275947.08
+2025-06-24,Cobro: Retainer May 2025 - DataSmart Systems SA,ingreso,12959.1,1288906.18
+2025-06-24,Cobro: Retainer May 2025 - CyberSecure Consulting,ingreso,13975.5,1302881.68
+2025-06-24,Cobro: Retainer May 2025 - Viajes y Negocios Globales,ingreso,10793.2,1313674.88
+2025-06-25,Cobro: Retainer May 2025 - InduSteel Components SA,ingreso,15875.2,1329550.08
+2025-06-25,Cobro: Retainer May 2025 - AutoParts Iberica SA,ingreso,13334.2,1342884.28
+2025-06-26,Cobro: Retainer May 2025 - Nexus Software Group,ingreso,12075.8,1354960.08
+2025-06-26,Cobro: Retainer May 2025 - HotelSun International SA,ingreso,15246.0,1370206.08
+2025-06-27,Pago: Software y SaaS,gasto,-7852.9,1362353.18
+2025-06-27,Cobro: Retainer May 2025 - Aceites y Olivares SL,ingreso,12705.0,1375058.18
+2025-06-27,Cobro: Retainer May 2025 - Juguetes del Mediterraneo,ingreso,9534.8,1384592.98
+2025-06-27,Cobro: Retainer May 2025 - Iluminacion Decorativa SL,ingreso,10793.2,1395386.18
+2025-06-28,Cobro: Retainer May 2025 - Bodegas Montealto SA,ingreso,10164.0,1405550.18
+2025-06-28,Cobro: Retainer May 2025 - Destinos Globales SL,ingreso,12705.0,1418255.18
+2025-06-28,Cobro: Retainer May 2025 - Calzado Artesano Export SL,ingreso,7623.0,1425878.18
+2025-06-28,Cobro: Retainer May 2025 - Textil Hogar Internacional,ingreso,8893.5,1434771.68
+2025-07-01,Pago: Alquiler oficina,gasto,-6776.0,1427995.68
+2025-07-02,Cobro: Retainer June 2025 - CloudNet Espana SL,ingreso,9438.0,1437433.68
+2025-07-02,Cobro: Retainer June 2025 - Cervezas Artesanas Gredos,ingreso,6292.0,1443725.68
+2025-07-02,Cobro: Retainer June 2025 - Turismo Rural Experience SL,ingreso,8470.0,1452195.68
+2025-07-03,Cobro: Retainer June 2025 - Nexus Software Group,ingreso,11495.0,1463690.68
+2025-07-05,Cobro: Retainer June 2025 - EnerRenovables Solar SA,ingreso,11858.0,1475548.68
+2025-07-06,Pago: Servicios profesionales,gasto,-3315.4,1472233.28
+2025-07-06,Cobro: Retainer June 2025 - Bodegas Montealto SA,ingreso,9680.0,1481913.28
+2025-07-07,Cobro: Retainer June 2025 - Juguetes del Mediterraneo,ingreso,9075.0,1490988.28
+2025-07-08,Cobro: Retainer June 2025 - Hogar Diseno SL,ingreso,8712.0,1499700.28
+2025-07-08,Cobro: Retainer June 2025 - Cosmeticos Natural SL,ingreso,6050.0,1505750.28
+2025-07-09,Cobro: Retainer June 2025 - ModaExport Iberica SL,ingreso,10890.0,1516640.28
+2025-07-10,Cobro: Retainer June 2025 - Gourmet Seleccion Espana,ingreso,8712.0,1525352.28
+2025-07-11,Cobro: Retainer June 2025 - InduSteel Components SA,ingreso,15125.0,1540477.28
+2025-07-11,Cobro: Retainer June 2025 - Bodegas Solariego SA,ingreso,11495.0,1551972.28
+2025-07-12,Pago: Nominas,gasto,-183500.0,1368472.28
+2025-07-13,Pago: Software y SaaS,gasto,-6848.6,1361623.68
+2025-07-13,Cobro: Retainer June 2025 - Destinos Globales SL,ingreso,12100.0,1373723.68
+2025-07-14,Cobro: Retainer June 2025 - Embotellados del Norte SL,ingreso,9075.0,1382798.68
+2025-07-14,Cobro: Retainer June 2025 - ElecTech Sistemas SL,ingreso,9922.0,1392720.68
+2025-07-14,Cobro: Retainer June 2025 - Viajes y Negocios Globales,ingreso,10285.0,1403005.68
+2025-07-15,Pago: Material de oficina,gasto,-496.1,1402509.58
+2025-07-16,Pago: Seguros,gasto,-2129.6,1400379.98
+2025-07-16,Cobro: Retainer June 2025 - Textil Hogar Internacional,ingreso,8470.0,1408849.98
+2025-07-17,Pago: Logistica y envios,gasto,-810.7,1408039.28
+2025-07-17,Cobro: Retainer June 2025 - AppDigital Labs,ingreso,7260.0,1415299.28
+2025-07-17,Cobro: Retainer June 2025 - Aceites y Olivares SL,ingreso,12100.0,1427399.28
+2025-07-17,Cobro: Retainer June 2025 - Eventos Corporativos Espana,ingreso,7865.0,1435264.28
+2025-07-18,Cobro: Retainer June 2025 - BioTech Health SL,ingreso,9680.0,1444944.28
+2025-07-19,Cobro: Retainer June 2025 - Vinedos del Valle SL,ingreso,7260.0,1452204.28
+2025-07-19,Cobro: Plan Integral de Internacionalizacion - Finca Ecologica SL -,ingreso,17290.9,1469495.18
+2025-07-21,Cobro: Retainer June 2025 - CyberSecure Consulting,ingreso,13310.0,1482805.18
+2025-07-22,Cobro: Retainer June 2025 - DataSmart Systems SA,ingreso,12342.0,1495147.18
+2025-07-23,Cobro: Retainer June 2025 - Mecanica Precision SL,ingreso,10648.0,1505795.18
+2025-07-23,Cobro: Retainer June 2025 - AutoParts Iberica SA,ingreso,12705.0,1518500.18
+2025-07-24,Pago: Material de oficina,gasto,-665.5,1517834.68
+2025-07-24,Cobro: Plan Integral de Internacionalizacion - Agencia de Negocios ,ingreso,7877.1,1525711.78
+2025-07-25,Cobro: Retainer June 2025 - HotelSun International SA,ingreso,14520.0,1540231.78
+2025-07-25,Cobro: Retainer June 2025 - Calzado Artesano Export SL,ingreso,7260.0,1547491.78
+2025-07-26,Cobro: Retainer June 2025 - Construcciones Metalicas ML,ingreso,8470.0,1555961.78
+2025-07-26,Cobro: Retainer June 2025 - Soluciones Logisticas ML,ingreso,9075.0,1565036.78
+2025-07-27,Pago: Suministros,gasto,-968.0,1564068.78
+2025-07-27,Cobro: Retainer June 2025 - Olivares del Mediterraneo,ingreso,7865.0,1571933.78
+2025-07-27,Cobro: Retainer June 2025 - Iluminacion Decorativa SL,ingreso,10285.0,1582218.78
+2025-07-28,Cobro: Retainer June 2025 - Conservas Artesanas SL,ingreso,6655.0,1588873.78
+2025-08-01,Cobro: Retainer July 2025 - Eventos Corporativos Espana,ingreso,7078.5,1595952.28
+2025-08-02,Cobro: Retainer July 2025 - HotelSun International SA,ingreso,13068.0,1609020.28
+2025-08-03,Cobro: Retainer July 2025 - Nexus Software Group,ingreso,10345.5,1619365.78
+2025-08-03,Cobro: Retainer July 2025 - Construcciones Metalicas ML,ingreso,7623.0,1626988.78
+2025-08-03,Cobro: Plan Integral de Internacionalizacion - Finca Ecologica SL -,ingreso,17290.9,1644279.68
+2025-08-04,Pago: Software y SaaS,gasto,-6679.2,1637600.48
+2025-08-04,Pago: IVA Trimestral,gasto,-48420.0,1589180.48
+2025-08-05,Cobro: Retainer July 2025 - AppDigital Labs,ingreso,6534.0,1595714.48
+2025-08-05,Cobro: Retainer July 2025 - Olivares del Mediterraneo,ingreso,7078.5,1602792.98
+2025-08-05,Cobro: Retainer July 2025 - Calzado Artesano Export SL,ingreso,6534.0,1609326.98
+2025-08-06,Cobro: Retainer July 2025 - Hogar Diseno SL,ingreso,7840.8,1617167.78
+2025-08-08,Cobro: Retainer July 2025 - CyberSecure Consulting,ingreso,11979.0,1629146.78
+2025-08-10,Pago: Suministros,gasto,-1512.5,1627634.28
+2025-08-10,Cobro: Retainer July 2025 - AutoParts Iberica SA,ingreso,11434.5,1639068.78
+2025-08-11,Cobro: Retainer July 2025 - Viajes y Negocios Globales,ingreso,9256.5,1648325.28
+2025-08-12,Pago: Software y SaaS,gasto,-6848.6,1641476.68
+2025-08-12,Cobro: Retainer July 2025 - Vinedos del Valle SL,ingreso,6534.0,1648010.68
+2025-08-12,Cobro: Retainer July 2025 - ModaExport Iberica SL,ingreso,9801.0,1657811.68
+2025-08-13,Cobro: Retainer July 2025 - Soluciones Logisticas ML,ingreso,8167.5,1665979.18
+2025-08-16,Cobro: Retainer July 2025 - Bodegas Montealto SA,ingreso,8712.0,1674691.18
+2025-08-16,Cobro: Retainer July 2025 - Turismo Rural Experience SL,ingreso,7623.0,1682314.18
+2025-08-17,Cobro: Retainer July 2025 - Aceites y Olivares SL,ingreso,10890.0,1693204.18
+2025-08-17,Cobro: Retainer July 2025 - Destinos Globales SL,ingreso,10890.0,1704094.18
+2025-08-18,Pago: Alquiler oficina,gasto,-6776.0,1697318.18
+2025-08-18,Pago: Suministros,gasto,-968.0,1696350.18
+2025-08-18,Pago: Alquiler oficina,gasto,-6969.6,1689380.58
+2025-08-19,Pago: Material de oficina,gasto,-665.5,1688715.08
+2025-08-19,Cobro: Retainer July 2025 - Embotellados del Norte SL,ingreso,8167.5,1696882.58
+2025-08-19,Cobro: Retainer July 2025 - InduSteel Components SA,ingreso,13612.5,1710495.08
+2025-08-19,Cobro: Retainer July 2025 - Cosmeticos Natural SL,ingreso,5445.0,1715940.08
+2025-08-20,Pago: Seguros,gasto,-2020.7,1713919.38
+2025-08-20,Cobro: Retainer July 2025 - DataSmart Systems SA,ingreso,11107.8,1725027.18
+2025-08-21,Cobro: Retainer July 2025 - CloudNet Espana SL,ingreso,8494.2,1733521.38
+2025-08-21,Cobro: Retainer July 2025 - Cervezas Artesanas Gredos,ingreso,5662.8,1739184.18
+2025-08-21,Cobro: Retainer July 2025 - Textil Hogar Internacional,ingreso,7623.0,1746807.18
+2025-08-22,Cobro: Retainer July 2025 - ElecTech Sistemas SL,ingreso,8929.8,1755736.98
+2025-08-22,Cobro: Retainer July 2025 - Bodegas Solariego SA,ingreso,10345.5,1766082.48
+2025-08-22,Cobro: Retainer July 2025 - Iluminacion Decorativa SL,ingreso,9256.5,1775338.98
+2025-08-23,Cobro: Retainer July 2025 - BioTech Health SL,ingreso,8712.0,1784050.98
+2025-08-24,Pago: Alquiler stands ferias,gasto,-6195.2,1777855.78
+2025-08-24,Pago: Nominas,gasto,-177640.0,1600215.78
+2025-08-24,Cobro: Retainer July 2025 - Conservas Artesanas SL,ingreso,5989.5,1606205.28
+2025-08-25,Cobro: Retainer July 2025 - EnerRenovables Solar SA,ingreso,10672.2,1616877.48
+2025-08-26,Cobro: Retainer July 2025 - Mecanica Precision SL,ingreso,9583.2,1626460.68
+2025-08-28,Pago: Servicios profesionales,gasto,-3182.3,1623278.38
+2025-08-28,Cobro: Retainer July 2025 - Gourmet Seleccion Espana,ingreso,7840.8,1631119.18
+2025-08-28,Cobro: Retainer July 2025 - Juguetes del Mediterraneo,ingreso,8167.5,1639286.68
+2025-09-01,Cobro: Retainer August 2025 - Bodegas Solariego SA,ingreso,6897.0,1646183.68
+2025-09-02,Cobro: Retainer August 2025 - Cervezas Artesanas Gredos,ingreso,3775.2,1649958.88
+2025-09-02,Cobro: Retainer August 2025 - Viajes y Negocios Globales,ingreso,6171.0,1656129.88
+2025-09-02,Cobro: Retainer August 2025 - Textil Hogar Internacional,ingreso,5082.0,1661211.88
+2025-09-03,Cobro: Retainer August 2025 - Conservas Artesanas SL,ingreso,3993.0,1665204.88
+2025-09-03,Cobro: Retainer August 2025 - Eventos Corporativos Espana,ingreso,4719.0,1669923.88
+2025-09-03,Cobro: Campana de Marketing Internacional - Bodegas del Duero SA - ,ingreso,11119.9,1681043.78
+2025-09-04,Pago: Suministros,gasto,-1633.5,1679410.28
+2025-09-04,Cobro: Retainer August 2025 - CloudNet Espana SL,ingreso,5662.8,1685073.08
+2025-09-05,Cobro: Retainer August 2025 - Destinos Globales SL,ingreso,7260.0,1692333.08
+2025-09-06,Pago: Servicios profesionales,gasto,-5275.6,1687057.48
+2025-09-06,Pago: Nominas,gasto,-191950.0,1495107.48
+2025-09-06,Cobro: Retainer August 2025 - ElecTech Sistemas SL,ingreso,5953.2,1501060.68
+2025-09-07,Cobro: Retainer August 2025 - Gourmet Seleccion Espana,ingreso,5227.2,1506287.88
+2025-09-08,Cobro: Retainer August 2025 - CyberSecure Consulting,ingreso,7986.0,1514273.88
+2025-09-08,Cobro: Retainer August 2025 - Calzado Artesano Export SL,ingreso,4356.0,1518629.88
+2025-09-09,Cobro: Retainer August 2025 - Iluminacion Decorativa SL,ingreso,6171.0,1524800.88
+2025-09-10,Cobro: Retainer August 2025 - Hogar Diseno SL,ingreso,5227.2,1530028.08
+2025-09-10,Cobro: Retainer August 2025 - Cosmeticos Natural SL,ingreso,3630.0,1533658.08
+2025-09-11,Cobro: Retainer August 2025 - Mecanica Precision SL,ingreso,6388.8,1540046.88
+2025-09-13,Pago: Material de oficina,gasto,-810.7,1539236.18
+2025-09-13,Cobro: Retainer August 2025 - Nexus Software Group,ingreso,6897.0,1546133.18
+2025-09-13,Cobro: Retainer August 2025 - AutoParts Iberica SA,ingreso,7623.0,1553756.18
+2025-09-14,Cobro: Retainer August 2025 - DataSmart Systems SA,ingreso,7405.2,1561161.38
+2025-09-14,Cobro: Retainer August 2025 - Aceites y Olivares SL,ingreso,7260.0,1568421.38
+2025-09-16,Pago: Alquiler oficina,gasto,-7707.7,1560713.68
+2025-09-18,Cobro: Retainer August 2025 - InduSteel Components SA,ingreso,9075.0,1569788.68
+2025-09-18,Cobro: Retainer August 2025 - Bodegas Montealto SA,ingreso,5808.0,1575596.68
+2025-09-19,Cobro: Retainer August 2025 - Embotellados del Norte SL,ingreso,5445.0,1581041.68
+2025-09-19,Cobro: Retainer August 2025 - Turismo Rural Experience SL,ingreso,5082.0,1586123.68
+2025-09-20,Cobro: Retainer August 2025 - Vinedos del Valle SL,ingreso,4356.0,1590479.68
+2025-09-20,Cobro: Retainer August 2025 - ModaExport Iberica SL,ingreso,6534.0,1597013.68
+2025-09-21,Cobro: Retainer August 2025 - Juguetes del Mediterraneo,ingreso,5445.0,1602458.68
+2025-09-23,Pago: Seguros,gasto,-1730.3,1600728.38
+2025-09-23,Cobro: Retainer August 2025 - Olivares del Mediterraneo,ingreso,4719.0,1605447.38
+2025-09-23,Cobro: Retainer August 2025 - Construcciones Metalicas ML,ingreso,5082.0,1610529.38
+2025-09-23,Cobro: Retainer August 2025 - Soluciones Logisticas ML,ingreso,5445.0,1615974.38
+2025-09-24,Cobro: Retainer August 2025 - AppDigital Labs,ingreso,4356.0,1620330.38
+2025-09-26,Cobro: Retainer August 2025 - HotelSun International SA,ingreso,8712.0,1629042.38
+2025-09-27,Cobro: Retainer August 2025 - BioTech Health SL,ingreso,5808.0,1634850.38
+2025-09-28,Cobro: Retainer August 2025 - EnerRenovables Solar SA,ingreso,7114.8,1641965.18
+2025-09-28,Cobro: Plan Integral de Internacionalizacion - Bioagro Export SL - ,ingreso,31314.8,1673279.98
+2025-10-02,Cobro: Retainer September 2025 - Nexus Software Group,ingreso,12644.5,1685924.48
+2025-10-02,Cobro: Retainer September 2025 - CyberSecure Consulting,ingreso,14641.0,1700565.48
+2025-10-03,Pago: Seguros,gasto,-1573.0,1698992.48
+2025-10-03,Cobro: Retainer September 2025 - Mecanica Precision SL,ingreso,11712.8,1710705.28
+2025-10-03,Cobro: Retainer September 2025 - Juguetes del Mediterraneo,ingreso,9982.5,1720687.78
+2025-10-04,Cobro: Retainer September 2025 - Cervezas Artesanas Gredos,ingreso,6921.2,1727608.98
+2025-10-05,Pago: IVA Trimestral,gasto,-38740.0,1688868.98
+2025-10-05,Cobro: Plan Integral de Internacionalizacion - Complementos de Moda,ingreso,6437.2,1695306.18
+2025-10-06,Cobro: Retainer September 2025 - AutoParts Iberica SA,ingreso,13975.5,1709281.68
+2025-10-06,Cobro: Retainer September 2025 - Construcciones Metalicas ML,ingreso,9317.0,1718598.68
+2025-10-07,Cobro: Plan Integral de Internacionalizacion - Finca Ecologica SL -,ingreso,6921.2,1725519.88
+2025-10-08,Cobro: Retainer September 2025 - Viajes y Negocios Globales,ingreso,11313.5,1736833.38
+2025-10-09,Cobro: Retainer September 2025 - CloudNet Espana SL,ingreso,10381.8,1747215.18
+2025-10-09,Cobro: Retainer September 2025 - Vinedos del Valle SL,ingreso,7986.0,1755201.18
+2025-10-11,Cobro: Retainer September 2025 - Bodegas Solariego SA,ingreso,12644.5,1767845.68
+2025-10-11,Cobro: Retainer September 2025 - Eventos Corporativos Espana,ingreso,8651.5,1776497.18
+2025-10-11,Cobro: Retainer September 2025 - Hogar Diseno SL,ingreso,9583.2,1786080.38
+2025-10-12,Pago: Suministros,gasto,-1125.3,1784955.08
+2025-10-12,Pago: Alquiler oficina,gasto,-7768.2,1777186.88
+2025-10-13,Cobro: Retainer September 2025 - Destinos Globales SL,ingreso,13310.0,1790496.88
+2025-10-13,Cobro: Plan Integral de Internacionalizacion - Conservas del Atlant,ingreso,21707.4,1812204.28
+2025-10-14,Cobro: Retainer September 2025 - Aceites y Olivares SL,ingreso,13310.0,1825514.28
+2025-10-14,Cobro: Retainer September 2025 - Gourmet Seleccion Espana,ingreso,9583.2,1835097.48
+2025-10-15,Cobro: Retainer September 2025 - AppDigital Labs,ingreso,7986.0,1843083.48
+2025-10-15,Cobro: Retainer September 2025 - InduSteel Components SA,ingreso,16637.5,1859720.98
+2025-10-15,Cobro: Retainer September 2025 - HotelSun International SA,ingreso,15972.0,1875692.98
+2025-10-15,Cobro: Retainer September 2025 - Textil Hogar Internacional,ingreso,9317.0,1885009.98
+2025-10-16,Cobro: Retainer September 2025 - Olivares del Mediterraneo,ingreso,8651.5,1893661.48
+2025-10-16,Cobro: Retainer September 2025 - Cosmeticos Natural SL,ingreso,6655.0,1900316.48
+2025-10-17,Cobro: Retainer September 2025 - Turismo Rural Experience SL,ingreso,9317.0,1909633.48
+2025-10-19,Pago: Pago Fraccionado IS,gasto,-12400.0,1897233.48
+2025-10-19,Cobro: Retainer September 2025 - Embotellados del Norte SL,ingreso,9982.5,1907215.98
+2025-10-20,Cobro: Retainer September 2025 - Soluciones Logisticas ML,ingreso,9982.5,1917198.48
+2025-10-21,Cobro: Retainer September 2025 - DataSmart Systems SA,ingreso,13576.2,1930774.68
+2025-10-21,Cobro: Retainer September 2025 - EnerRenovables Solar SA,ingreso,13043.8,1943818.48
+2025-10-22,Cobro: Retainer September 2025 - ElecTech Sistemas SL,ingreso,10914.2,1954732.68
+2025-10-23,Cobro: Retainer September 2025 - Iluminacion Decorativa SL,ingreso,11313.5,1966046.18
+2025-10-24,Cobro: Retainer September 2025 - BioTech Health SL,ingreso,10648.0,1976694.18
+2025-10-24,Cobro: Retainer September 2025 - ModaExport Iberica SL,ingreso,11979.0,1988673.18
+2025-10-25,Cobro: Retainer September 2025 - Calzado Artesano Export SL,ingreso,7986.0,1996659.18
+2025-10-26,Pago: Nominas,gasto,-184380.0,1812279.18
+2025-10-28,Pago: Alquiler oficina,gasto,-7635.1,1804644.08
+2025-10-28,Cobro: Retainer September 2025 - Conservas Artesanas SL,ingreso,7320.5,1811964.58
+2025-10-28,Cobro: Retainer September 2025 - Bodegas Montealto SA,ingreso,10648.0,1822612.58
+2025-11-01,Pago: Servicios profesionales,gasto,-3375.9,1819236.68
+2025-11-01,Cobro: Retainer October 2025 - AppDigital Labs,ingreso,7986.0,1827222.68
+2025-11-05,Cobro: Retainer October 2025 - CloudNet Espana SL,ingreso,10381.8,1837604.48
+2025-11-05,Cobro: Retainer October 2025 - Viajes y Negocios Globales,ingreso,11313.5,1848917.98
+2025-11-05,Cobro: Retainer October 2025 - Calzado Artesano Export SL,ingreso,7986.0,1856903.98
+2025-11-06,Cobro: Retainer October 2025 - BioTech Health SL,ingreso,10648.0,1867551.98
+2025-11-06,Cobro: Retainer October 2025 - Bodegas Solariego SA,ingreso,12644.5,1880196.48
+2025-11-07,Pago: Alquiler oficina,gasto,-7635.1,1872561.38
+2025-11-07,Cobro: Retainer October 2025 - ElecTech Sistemas SL,ingreso,10914.2,1883475.58
+2025-11-07,Cobro: Plan Integral de Internacionalizacion - Crianza y Venta SL -,ingreso,14544.2,1898019.78
+2025-11-10,Cobro: Retainer October 2025 - Gourmet Seleccion Espana,ingreso,9583.2,1907602.98
+2025-11-10,Cobro: Retainer October 2025 - Turismo Rural Experience SL,ingreso,9317.0,1916919.98
+2025-11-11,Cobro: Retainer October 2025 - Conservas Artesanas SL,ingreso,7320.5,1924240.48
+2025-11-12,Pago: Nominas,gasto,-175400.0,1748840.48
+2025-11-13,Cobro: Retainer October 2025 - DataSmart Systems SA,ingreso,13576.2,1762416.68
+2025-11-13,Cobro: Retainer October 2025 - Cervezas Artesanas Gredos,ingreso,6921.2,1769337.88
+2025-11-13,Cobro: Retainer October 2025 - Eventos Corporativos Espana,ingreso,8651.5,1777989.38
+2025-11-14,Cobro: Retainer October 2025 - CyberSecure Consulting,ingreso,14641.0,1792630.38
+2025-11-14,Cobro: Retainer October 2025 - Mecanica Precision SL,ingreso,11712.8,1804343.18
+2025-11-14,Cobro: Retainer October 2025 - AutoParts Iberica SA,ingreso,13975.5,1818318.68
+2025-11-15,Pago: Suministros,gasto,-1125.3,1817193.38
+2025-11-15,Pago: Alquiler oficina,gasto,-7768.2,1809425.18
+2025-11-17,Cobro: Retainer October 2025 - Aceites y Olivares SL,ingreso,13310.0,1822735.18
+2025-11-17,Cobro: Retainer October 2025 - ModaExport Iberica SL,ingreso,11979.0,1834714.18
+2025-11-19,Cobro: Retainer October 2025 - EnerRenovables Solar SA,ingreso,13043.8,1847757.98
+2025-11-19,Cobro: Retainer October 2025 - HotelSun International SA,ingreso,15972.0,1863729.98
+2025-11-20,Cobro: Retainer October 2025 - Nexus Software Group,ingreso,12644.5,1876374.48
+2025-11-20,Cobro: Retainer October 2025 - Construcciones Metalicas ML,ingreso,9317.0,1885691.48
+2025-11-20,Cobro: Plan Integral de Internacionalizacion - Complementos de Moda,ingreso,6437.2,1892128.68
+2025-11-21,Pago: Software y SaaS,gasto,-7151.1,1884977.58
+2025-11-21,Cobro: Retainer October 2025 - Iluminacion Decorativa SL,ingreso,11313.5,1896291.08
+2025-11-22,Cobro: Retainer October 2025 - Olivares del Mediterraneo,ingreso,8651.5,1904942.58
+2025-11-22,Cobro: Retainer October 2025 - InduSteel Components SA,ingreso,16637.5,1921580.08
+2025-11-22,Cobro: Retainer October 2025 - Vinedos del Valle SL,ingreso,7986.0,1929566.08
+2025-11-22,Cobro: Retainer October 2025 - Destinos Globales SL,ingreso,13310.0,1942876.08
+2025-11-22,Cobro: Retainer October 2025 - Cosmeticos Natural SL,ingreso,6655.0,1949531.08
+2025-11-22,Cobro: Retainer October 2025 - Textil Hogar Internacional,ingreso,9317.0,1958848.08
+2025-11-23,Pago: Seguros,gasto,-2141.7,1956706.38
+2025-11-23,Cobro: Retainer October 2025 - Embotellados del Norte SL,ingreso,9982.5,1966688.88
+2025-11-23,Cobro: Retainer October 2025 - Juguetes del Mediterraneo,ingreso,9982.5,1976671.38
+2025-11-26,Pago: Material de oficina,gasto,-520.3,1976151.08
+2025-11-26,Cobro: Retainer October 2025 - Soluciones Logisticas ML,ingreso,9982.5,1986133.58
+2025-11-27,Cobro: Retainer October 2025 - Bodegas Montealto SA,ingreso,10648.0,1996781.58
+2025-12-01,Cobro: Retainer November 2025 - CyberSecure Consulting,ingreso,13310.0,2010091.58
+2025-12-01,Cobro: Retainer November 2025 - BioTech Health SL,ingreso,9680.0,2019771.58
+2025-12-02,Cobro: Plan Integral de Internacionalizacion - Crianza y Venta SL -,ingreso,14544.2,2034315.78
+2025-12-03,Cobro: Retainer November 2025 - AutoParts Iberica SA,ingreso,12705.0,2047020.78
+2025-12-04,Cobro: Retainer November 2025 - EnerRenovables Solar SA,ingreso,11858.0,2058878.78
+2025-12-04,Cobro: Retainer November 2025 - Bodegas Solariego SA,ingreso,11495.0,2070373.78
+2025-12-05,Cobro: Retainer November 2025 - Mecanica Precision SL,ingreso,10648.0,2081021.78
+2025-12-06,Cobro: Retainer November 2025 - ElecTech Sistemas SL,ingreso,9922.0,2090943.78
+2025-12-06,Cobro: Retainer November 2025 - Cervezas Artesanas Gredos,ingreso,6292.0,2097235.78
+2025-12-06,Cobro: Plan Integral de Internacionalizacion - Conservas del Atlant,ingreso,8155.4,2105391.18
+2025-12-07,Cobro: Retainer November 2025 - Juguetes del Mediterraneo,ingreso,9075.0,2114466.18
+2025-12-08,Pago: Alquiler oficina,gasto,-7441.5,2107024.68
+2025-12-08,Cobro: Retainer November 2025 - Aceites y Olivares SL,ingreso,12100.0,2119124.68
+2025-12-08,Cobro: Retainer November 2025 - Iluminacion Decorativa SL,ingreso,10285.0,2129409.68
+2025-12-10,Pago: Suministros,gasto,-1536.7,2127872.98
+2025-12-10,Cobro: Retainer November 2025 - Turismo Rural Experience SL,ingreso,8470.0,2136342.98
+2025-12-11,Pago: Nominas,gasto,-187290.0,1949052.98
+2025-12-12,Pago: Asesoria legal local,gasto,-1524.6,1947528.38
+2025-12-12,Cobro: Retainer November 2025 - Olivares del Mediterraneo,ingreso,7865.0,1955393.38
+2025-12-13,Cobro: Retainer November 2025 - CloudNet Espana SL,ingreso,9438.0,1964831.38
+2025-12-13,Cobro: Retainer November 2025 - Viajes y Negocios Globales,ingreso,10285.0,1975116.38
+2025-12-15,Cobro: Retainer November 2025 - Soluciones Logisticas ML,ingreso,9075.0,1984191.38
+2025-12-17,Pago: Software y SaaS,gasto,-5481.3,1978710.08
+2025-12-17,Pago: Pago Fraccionado IS,gasto,-9950.0,1968760.08
+2025-12-18,Cobro: Retainer November 2025 - DataSmart Systems SA,ingreso,12342.0,1981102.08
+2025-12-18,Cobro: Retainer November 2025 - Construcciones Metalicas ML,ingreso,8470.0,1989572.08
+2025-12-18,Cobro: Retainer November 2025 - Gourmet Seleccion Espana,ingreso,8712.0,1998284.08
+2025-12-18,Cobro: Retainer November 2025 - Destinos Globales SL,ingreso,12100.0,2010384.08
+2025-12-18,Cobro: Retainer November 2025 - Cosmeticos Natural SL,ingreso,6050.0,2016434.08
+2025-12-20,Cobro: Retainer November 2025 - Eventos Corporativos Espana,ingreso,7865.0,2024299.08
+2025-12-21,Cobro: Retainer November 2025 - Nexus Software Group,ingreso,11495.0,2035794.08
+2025-12-21,Cobro: Retainer November 2025 - InduSteel Components SA,ingreso,15125.0,2050919.08
+2025-12-22,Pago: Material de oficina,gasto,-568.7,2050350.38
+2025-12-22,Cobro: Retainer November 2025 - ModaExport Iberica SL,ingreso,10890.0,2061240.38
+2025-12-22,Cobro: Plan de Promocion Internacional - Espirituosos Premium SL - ,ingreso,3896.2,2065136.58
+2025-12-23,Cobro: Retainer November 2025 - AppDigital Labs,ingreso,7260.0,2072396.58
+2025-12-25,Cobro: Retainer November 2025 - Textil Hogar Internacional,ingreso,8470.0,2080866.58
+2025-12-26,Cobro: Retainer November 2025 - Bodegas Montealto SA,ingreso,9680.0,2090546.58
+2025-12-26,Cobro: Retainer November 2025 - HotelSun International SA,ingreso,14520.0,2105066.58
+2025-12-27,Pago: Servicios profesionales,gasto,-5408.7,2099657.88
+2025-12-27,Cobro: Retainer November 2025 - Calzado Artesano Export SL,ingreso,7260.0,2106917.88
+2025-12-28,Cobro: Retainer November 2025 - Conservas Artesanas SL,ingreso,6655.0,2113572.88
+2025-12-28,Cobro: Retainer November 2025 - Embotellados del Norte SL,ingreso,9075.0,2122647.88
+2025-12-28,Cobro: Retainer November 2025 - Vinedos del Valle SL,ingreso,7260.0,2129907.88
+2026-01-01,Cobro: Retainer December 2025 - HotelSun International SA,ingreso,10164.0,2140071.88
+2026-01-02,Cobro: Retainer December 2025 - DataSmart Systems SA,ingreso,8639.4,2148711.28
+2026-01-04,Cobro: Retainer December 2025 - Olivares del Mediterraneo,ingreso,5505.5,2154216.78
+2026-01-04,Cobro: Retainer December 2025 - Bodegas Solariego SA,ingreso,8046.5,2162263.28
+2026-01-04,Cobro: Retainer December 2025 - Juguetes del Mediterraneo,ingreso,6352.5,2168615.78
+2026-01-05,Pago: Suministros,gasto,-1137.4,2167478.38
+2026-01-05,Cobro: Retainer December 2025 - Aceites y Olivares SL,ingreso,8470.0,2175948.38
+2026-01-05,Cobro: Retainer December 2025 - AutoParts Iberica SA,ingreso,8893.5,2184841.88
+2026-01-05,Cobro: Retainer December 2025 - Construcciones Metalicas ML,ingreso,5929.0,2190770.88
+2026-01-08,Cobro: Retainer December 2025 - Textil Hogar Internacional,ingreso,5929.0,2196699.88
+2026-01-09,Cobro: Retainer December 2025 - Soluciones Logisticas ML,ingreso,6352.5,2203052.38
+2026-01-09,Cobro: Plan de Promocion Internacional - Espirituosos Premium SL - ,ingreso,5578.1,2208630.48
+2026-01-11,Pago: Software y SaaS,gasto,-6703.4,2201927.08
+2026-01-12,Cobro: Retainer December 2025 - InduSteel Components SA,ingreso,10587.5,2212514.58
+2026-01-13,Cobro: Retainer December 2025 - AppDigital Labs,ingreso,5082.0,2217596.58
+2026-01-13,Cobro: Retainer December 2025 - Iluminacion Decorativa SL,ingreso,7199.5,2224796.08
+2026-01-13,Cobro: Plan Integral de Internacionalizacion - Crianza y Venta SL -,ingreso,9450.1,2234246.18
+2026-01-14,Pago: Material de oficina,gasto,-1016.4,2233229.78
+2026-01-15,Cobro: Retainer December 2025 - Mecanica Precision SL,ingreso,7453.6,2240683.38
+2026-01-15,Cobro: Retainer December 2025 - Bodegas Montealto SA,ingreso,6776.0,2247459.38
+2026-01-16,Cobro: Retainer December 2025 - ElecTech Sistemas SL,ingreso,6945.4,2254404.78
+2026-01-16,Cobro: Retainer December 2025 - Turismo Rural Experience SL,ingreso,5929.0,2260333.78
+2026-01-17,Cobro: Retainer December 2025 - Cervezas Artesanas Gredos,ingreso,4404.4,2264738.18
+2026-01-17,Cobro: Retainer December 2025 - Cosmeticos Natural SL,ingreso,4235.0,2268973.18
+2026-01-18,Pago: Seguros,gasto,-1645.6,2267327.58
+2026-01-18,Cobro: Plan Integral de Internacionalizacion - RoboTech Solutions S,ingreso,5735.4,2273062.98
+2026-01-20,Cobro: Retainer December 2025 - ModaExport Iberica SL,ingreso,7623.0,2280685.98
+2026-01-23,Cobro: Retainer December 2025 - Viajes y Negocios Globales,ingreso,7199.5,2287885.48
+2026-01-23,Cobro: Retainer December 2025 - Calzado Artesano Export SL,ingreso,5082.0,2292967.48
+2026-01-24,Pago: Nominas,gasto,-180350.0,2112617.48
+2026-01-24,Cobro: Retainer December 2025 - Nexus Software Group,ingreso,8046.5,2120663.98
+2026-01-24,Cobro: Retainer December 2025 - CyberSecure Consulting,ingreso,9317.0,2129980.98
+2026-01-24,Cobro: Retainer December 2025 - Gourmet Seleccion Espana,ingreso,6098.4,2136079.38
+2026-01-25,Cobro: Retainer December 2025 - EnerRenovables Solar SA,ingreso,8300.6,2144379.98
+2026-01-27,Cobro: Retainer December 2025 - CloudNet Espana SL,ingreso,6606.6,2150986.58
+2026-01-27,Cobro: Retainer December 2025 - Embotellados del Norte SL,ingreso,6352.5,2157339.08
+2026-01-27,Cobro: Retainer December 2025 - Vinedos del Valle SL,ingreso,5082.0,2162421.08
+2026-01-27,Cobro: Retainer December 2025 - Destinos Globales SL,ingreso,8470.0,2170891.08
+2026-01-28,Pago: Servicios profesionales,gasto,-4779.5,2166111.58
+2026-01-28,Cobro: Retainer December 2025 - BioTech Health SL,ingreso,6776.0,2172887.58
+2026-01-28,Cobro: Retainer December 2025 - Conservas Artesanas SL,ingreso,4658.5,2177546.08
+2026-01-28,Cobro: Retainer December 2025 - Eventos Corporativos Espana,ingreso,5505.5,2183051.58
+2026-02-01,Cobro: Retainer January 2026 - CloudNet Espana SL,ingreso,10381.8,2193433.38
+2026-02-02,Cobro: Retainer January 2026 - AutoParts Iberica SA,ingreso,13975.5,2207408.88
+2026-02-02,Cobro: Retainer January 2026 - Vinedos del Valle SL,ingreso,7986.0,2215394.88
+2026-02-03,Cobro: Retainer January 2026 - Destinos Globales SL,ingreso,13310.0,2228704.88
+2026-02-03,Cobro: Retainer January 2026 - Juguetes del Mediterraneo,ingreso,9982.5,2238687.38
+2026-02-04,Pago: Suministros,gasto,-1137.4,2237549.98
+2026-02-04,Pago: Alquiler stands ferias,gasto,-5529.7,2232020.28
+2026-02-05,Cobro: Retainer January 2026 - InduSteel Components SA,ingreso,16637.5,2248657.78
+2026-02-06,Pago: Software y SaaS,gasto,-5239.3,2243418.48
+2026-02-07,Cobro: Retainer January 2026 - Iluminacion Decorativa SL,ingreso,11313.5,2254731.98
+2026-02-07,Cobro: Plan Integral de Internacionalizacion - Crianza y Venta SL -,ingreso,6679.2,2261411.18
+2026-02-08,Cobro: Retainer January 2026 - Cervezas Artesanas Gredos,ingreso,6921.2,2268332.38
+2026-02-09,Cobro: Retainer January 2026 - Viajes y Negocios Globales,ingreso,11313.5,2279645.88
+2026-02-10,Cobro: Retainer January 2026 - Gourmet Seleccion Espana,ingreso,9583.2,2289229.08
+2026-02-11,Cobro: Retainer January 2026 - HotelSun International SA,ingreso,15972.0,2305201.08
+2026-02-11,Cobro: Retainer January 2026 - Cosmeticos Natural SL,ingreso,6655.0,2311856.08
+2026-02-12,Cobro: Retainer January 2026 - DataSmart Systems SA,ingreso,13576.2,2325432.28
+2026-02-12,Cobro: Retainer January 2026 - Olivares del Mediterraneo,ingreso,8651.5,2334083.78
+2026-02-12,Cobro: Retainer January 2026 - Aceites y Olivares SL,ingreso,13310.0,2347393.78
+2026-02-14,Pago: Material de oficina,gasto,-859.1,2346534.68
+2026-02-14,Cobro: Retainer January 2026 - Construcciones Metalicas ML,ingreso,9317.0,2355851.68
+2026-02-15,Cobro: Retainer January 2026 - Soluciones Logisticas ML,ingreso,9982.5,2365834.18
+2026-02-15,Cobro: Retainer January 2026 - Eventos Corporativos Espana,ingreso,8651.5,2374485.68
+2026-02-17,Cobro: Retainer January 2026 - ElecTech Sistemas SL,ingreso,10914.2,2385399.88
+2026-02-17,Cobro: Retainer January 2026 - Bodegas Montealto SA,ingreso,10648.0,2396047.88
+2026-02-19,Pago: Servicios profesionales,gasto,-4670.6,2391377.28
+2026-02-19,Pago: Nominas,gasto,-193990.0,2197387.28
+2026-02-19,Cobro: Retainer January 2026 - Nexus Software Group,ingreso,12644.5,2210031.78
+2026-02-20,Cobro: Retainer January 2026 - Embotellados del Norte SL,ingreso,9982.5,2220014.28
+2026-02-20,Cobro: Retainer January 2026 - Mecanica Precision SL,ingreso,11712.8,2231727.08
+2026-02-21,Cobro: Retainer January 2026 - Conservas Artesanas SL,ingreso,7320.5,2239047.58
+2026-02-21,Cobro: Retainer January 2026 - Bodegas Solariego SA,ingreso,12644.5,2251692.08
+2026-02-22,Cobro: Retainer January 2026 - CyberSecure Consulting,ingreso,14641.0,2266333.08
+2026-02-22,Cobro: Retainer January 2026 - ModaExport Iberica SL,ingreso,11979.0,2278312.08
+2026-02-23,Cobro: Plan Integral de Internacionalizacion - RoboTech Solutions S,ingreso,7030.1,2285342.18
+2026-02-24,Cobro: Retainer January 2026 - BioTech Health SL,ingreso,10648.0,2295990.18
+2026-02-24,Cobro: Retainer January 2026 - EnerRenovables Solar SA,ingreso,13043.8,2309033.98
+2026-02-26,Cobro: Retainer January 2026 - Calzado Artesano Export SL,ingreso,7986.0,2317019.98
+2026-02-27,Cobro: Retainer January 2026 - Turismo Rural Experience SL,ingreso,9317.0,2326336.98
+2026-02-28,Cobro: Retainer January 2026 - Textil Hogar Internacional,ingreso,9317.0,2335653.98
+2026-03-01,Cobro: Retainer February 2026 - Aceites y Olivares SL,ingreso,11495.0,2347148.98
+2026-03-01,Cobro: Retainer February 2026 - Bodegas Solariego SA,ingreso,10914.2,2358063.18
+2026-03-02,Cobro: Retainer February 2026 - DataSmart Systems SA,ingreso,11724.9,2369788.08
+2026-03-03,Cobro: Retainer February 2026 - Cervezas Artesanas Gredos,ingreso,5977.4,2375765.48
+2026-03-03,Cobro: Retainer February 2026 - Juguetes del Mediterraneo,ingreso,8615.2,2384380.68
+2026-03-04,Cobro: Retainer February 2026 - CloudNet Espana SL,ingreso,8966.1,2393346.78
+2026-03-04,Cobro: Plan de Promocion Internacional - Espirituosos Premium SL - ,ingreso,17036.8,2410383.58
+2026-03-05,Cobro: Retainer February 2026 - Turismo Rural Experience SL,ingreso,8046.5,2418430.08
+2026-03-08,Cobro: Retainer February 2026 - Calzado Artesano Export SL,ingreso,6897.0,2425327.08
+2026-03-10,Cobro: Retainer February 2026 - Embotellados del Norte SL,ingreso,8615.2,2433942.28
+2026-03-11,Cobro: Retainer February 2026 - Soluciones Logisticas ML,ingreso,8615.2,2442557.48
+2026-03-11,Cobro: Retainer January 2026 - Gourmet Seleccion Espana,ingreso,9583.2,2452140.68
+2026-03-11,Cobro: Retainer February 2026 - Destinos Globales SL,ingreso,11495.0,2463635.68
+2026-03-12,Cobro: Retainer February 2026 - Vinedos del Valle SL,ingreso,6897.0,2470532.68
+2026-03-13,Pago: Material de oficina,gasto,-726.0,2469806.68
+2026-03-13,Cobro: Retainer February 2026 - Conservas Artesanas SL,ingreso,6316.2,2476122.88
+2026-03-14,Cobro: Retainer February 2026 - AppDigital Labs,ingreso,6897.0,2483019.88
+2026-03-14,Cobro: Retainer February 2026 - Olivares del Mediterraneo,ingreso,7477.8,2490497.68
+2026-03-14,Cobro: Retainer February 2026 - InduSteel Components SA,ingreso,14374.8,2504872.48
+2026-03-15,Pago: Alquiler oficina,gasto,-7102.7,2497769.78
+2026-03-15,Pago: Seguros,gasto,-1984.4,2495785.38
+2026-03-15,Cobro: Retainer February 2026 - EnerRenovables Solar SA,ingreso,11265.1,2507050.48
+2026-03-15,Cobro: Retainer February 2026 - Viajes y Negocios Globales,ingreso,9776.8,2516827.28
+2026-03-16,Cobro: Retainer February 2026 - Construcciones Metalicas ML,ingreso,8046.5,2524873.78
+2026-03-16,Cobro: Retainer February 2026 - Cosmeticos Natural SL,ingreso,5747.5,2530621.28
+2026-03-16,Cobro: Retainer February 2026 - Iluminacion Decorativa SL,ingreso,9776.8,2540398.08
+2026-03-16,Cobro: Retainer February 2026 - Textil Hogar Internacional,ingreso,8046.5,2548444.58
+2026-03-17,Cobro: Retainer February 2026 - Mecanica Precision SL,ingreso,10115.6,2558560.18
+2026-03-19,Pago: Suministros,gasto,-1367.3,2557192.88
+2026-03-19,Cobro: Retainer February 2026 - BioTech Health SL,ingreso,9196.0,2566388.88
+2026-03-20,Cobro: Retainer January 2026 - ModaExport Iberica SL,ingreso,11979.0,2578367.88
+2026-03-21,Cobro: Retainer February 2026 - Gourmet Seleccion Espana,ingreso,8276.4,2586644.28
+2026-03-22,Cobro: Plan Integral de Internacionalizacion - Crianza y Venta SL -,ingreso,1548.8,2588193.08
+2026-03-23,Cobro: Retainer February 2026 - Nexus Software Group,ingreso,10914.2,2599107.28
+2026-03-23,Cobro: Retainer February 2026 - Bodegas Montealto SA,ingreso,9196.0,2608303.28
+2026-03-24,Cobro: Retainer February 2026 - CyberSecure Consulting,ingreso,12644.5,2620947.78
+2026-03-24,Cobro: Retainer February 2026 - ModaExport Iberica SL,ingreso,10345.5,2631293.28
+2026-03-26,Pago: Software y SaaS,gasto,-7453.6,2623839.68
+2026-03-26,Cobro: Retainer February 2026 - AutoParts Iberica SA,ingreso,12075.8,2635915.48
+2026-03-26,Cobro: Plan Integral de Internacionalizacion - Complementos de Moda,ingreso,4767.4,2640682.88
+2026-03-27,Pago: Alquiler stands ferias,gasto,-5529.7,2635153.18
+2026-03-27,Cobro: Retainer February 2026 - Eventos Corporativos Espana,ingreso,7477.8,2642630.98
+2026-03-28,Pago: Nominas,gasto,-193880.0,2448750.98
+2026-04-01,Cobro: Retainer March 2026 - Nexus Software Group,ingreso,12644.5,2461395.48
+2026-04-01,Cobro: Retainer March 2026 - Conservas Artesanas SL,ingreso,7320.5,2468715.98
+2026-04-02,Cobro: Retainer March 2026 - DataSmart Systems SA,ingreso,13576.2,2482292.18
+2026-04-02,Cobro: Retainer March 2026 - Vinedos del Valle SL,ingreso,7986.0,2490278.18
+2026-04-02,Cobro: Retainer March 2026 - Cosmeticos Natural SL,ingreso,6655.0,2496933.18
+2026-04-03,Pago: Marketing y publicidad,gasto,-7792.4,2489140.78
+2026-04-03,Cobro: Plan Integral de Internacionalizacion - Crianza y Venta SL -,ingreso,1548.8,2490689.58
+2026-04-04,Pago: Software y SaaS,gasto,-5614.4,2485075.18
+2026-04-04,Cobro: Retainer March 2026 - Gourmet Seleccion Espana,ingreso,9583.2,2494658.38
+2026-04-05,Cobro: Retainer March 2026 - Embotellados del Norte SL,ingreso,9982.5,2504640.88
+2026-04-05,Cobro: Retainer March 2026 - Juguetes del Mediterraneo,ingreso,9982.5,2514623.38
+2026-04-09,Cobro: Retainer March 2026 - CloudNet Espana SL,ingreso,10381.8,2525005.18
+2026-04-10,Cobro: Retainer March 2026 - CyberSecure Consulting,ingreso,14641.0,2539646.18
+2026-04-11,Pago: Pago Fraccionado IS,gasto,-15840.0,2523806.18
+2026-04-11,Cobro: Retainer March 2026 - Construcciones Metalicas ML,ingreso,9317.0,2533123.18
+2026-04-12,Pago: Material de oficina,gasto,-786.5,2532336.68
+2026-04-12,Cobro: Retainer March 2026 - Aceites y Olivares SL,ingreso,13310.0,2545646.68
+2026-04-12,Cobro: Retainer March 2026 - ModaExport Iberica SL,ingreso,11979.0,2557625.68
+2026-04-13,Cobro: Retainer March 2026 - HotelSun International SA,ingreso,15972.0,2573597.68
+2026-04-13,Cobro: Retainer March 2026 - Viajes y Negocios Globales,ingreso,11313.5,2584911.18
+2026-04-14,Cobro: Retainer March 2026 - Soluciones Logisticas ML,ingreso,9982.5,2594893.68
+2026-04-15,Cobro: Retainer March 2026 - Bodegas Montealto SA,ingreso,10648.0,2605541.68
+2026-04-18,Pago: Servicios profesionales,gasto,-4138.2,2601403.48
+2026-04-18,Cobro: Retainer March 2026 - BioTech Health SL,ingreso,10648.0,2612051.48
+2026-04-18,Cobro: Retainer March 2026 - Calzado Artesano Export SL,ingreso,7986.0,2620037.48
+2026-04-19,Cobro: Retainer March 2026 - Destinos Globales SL,ingreso,13310.0,2633347.48
+2026-04-19,Cobro: Retainer March 2026 - Turismo Rural Experience SL,ingreso,9317.0,2642664.48
+2026-04-19,Cobro: Plan Integral de Internacionalizacion - RoboTech Solutions S,ingreso,9764.7,2652429.18
+2026-04-20,Cobro: Retainer March 2026 - ElecTech Sistemas SL,ingreso,10914.2,2663343.38
+2026-04-23,Pago: Suministros,gasto,-1464.1,2661879.28
+2026-04-23,Cobro: Retainer March 2026 - Olivares del Mediterraneo,ingreso,8651.5,2670530.78
+2026-04-23,Cobro: Retainer March 2026 - Eventos Corporativos Espana,ingreso,8651.5,2679182.28
+2026-04-23,Cobro: Retainer March 2026 - Iluminacion Decorativa SL,ingreso,11313.5,2690495.78
+2026-04-23,Cobro: Retainer March 2026 - Textil Hogar Internacional,ingreso,9317.0,2699812.78
+2026-04-24,Pago: Suministros,gasto,-1367.3,2698445.48
+2026-04-25,Cobro: Retainer March 2026 - Mecanica Precision SL,ingreso,11712.8,2710158.28
+2026-04-25,Cobro: Retainer March 2026 - AutoParts Iberica SA,ingreso,13975.5,2724133.78
+2026-04-25,Cobro: Retainer March 2026 - Bodegas Solariego SA,ingreso,12644.5,2736778.28
+2026-04-26,Cobro: Retainer March 2026 - AppDigital Labs,ingreso,7986.0,2744764.28
+2026-04-26,Cobro: Retainer March 2026 - EnerRenovables Solar SA,ingreso,13043.8,2757808.08
+2026-04-27,Pago: Nominas,gasto,-181270.0,2576538.08
+2026-04-27,Cobro: Retainer March 2026 - Cervezas Artesanas Gredos,ingreso,6921.2,2583459.28
+2026-04-28,Cobro: Retainer March 2026 - InduSteel Components SA,ingreso,16637.5,2600096.78

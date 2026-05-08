@@ -1,0 +1,79 @@
+﻿cliente_id,empresa,sector,tipo_proyecto,valor_proyecto_eur,fecha_inicio,duracion_meses,estado,probabilidad_pct,fecha_cierre
+CLI-001,InnovaTech Solutions SL,Tecnologia,Consultoria Internacional Recurrente,144500.0,2023-04-01,17,finalizado,100,2024-08-01
+CLI-002,DataSmart Systems SA,Tecnologia,Consultoria Internacional Recurrente,408000.0,2023-01-01,40,activo,100,
+CLI-003,CloudNet Espana SL,Tecnologia,Consultoria Internacional Recurrente,273000.0,2023-06-01,35,activo,100,
+CLI-004,Nexus Software Group,Tecnologia,Consultoria Internacional Recurrente,380000.0,2023-01-01,40,activo,100,
+CLI-005,CyberSecure Consulting,Tecnologia,Consultoria Internacional Recurrente,440000.0,2023-01-01,40,activo,100,
+CLI-006,AppDigital Labs,Tecnologia,Consultoria Internacional Recurrente,240000.0,2023-01-01,40,activo,100,
+CLI-007,BioTech Health SL,Tecnologia,Consultoria Internacional Recurrente,288000.0,2023-05-01,36,activo,100,
+CLI-008,CampoVerde Export SA,Agroalimentario,Consultoria Internacional Recurrente,79200.0,2023-06-01,11,finalizado,100,2024-04-01
+CLI-009,Alimentos del Sur SL,Agroalimentario,Consultoria Internacional Recurrente,90000.0,2023-04-01,10,finalizado,100,2024-01-01
+CLI-010,Olivares del Mediterraneo,Agroalimentario,Consultoria Internacional Recurrente,253500.0,2023-02-01,39,activo,100,
+CLI-011,Frutas y Hortalizas del Norte,Agroalimentario,Consultoria Internacional Recurrente,153000.0,2023-05-01,18,finalizado,100,2024-10-01
+CLI-012,Conservas Artesanas SL,Agroalimentario,Consultoria Internacional Recurrente,192500.0,2023-06-01,35,activo,100,
+CLI-013,Aceites y Olivares SL,Agroalimentario,Consultoria Internacional Recurrente,370000.0,2023-04-01,37,activo,100,
+CLI-014,Embotellados del Norte SL,Agroalimentario,Consultoria Internacional Recurrente,285000.0,2023-03-01,38,activo,100,
+CLI-015,InduSteel Components SA,Bienes Industriales,Consultoria Internacional Recurrente,500000.0,2023-01-01,40,activo,100,
+CLI-016,Mecanica Precision SL,Bienes Industriales,Consultoria Internacional Recurrente,202400.0,2024-06-01,23,activo,100,
+CLI-017,TecniMaquinaria SL,Bienes Industriales,Consultoria Internacional Recurrente,92000.0,2024-05-01,10,finalizado,100,2025-02-01
+CLI-018,AutoParts Iberica SA,Bienes Industriales,Consultoria Internacional Recurrente,325500.0,2023-10-01,31,activo,100,
+CLI-019,Construcciones Metalicas ML,Bienes Industriales,Consultoria Internacional Recurrente,210000.0,2023-11-01,30,activo,100,
+CLI-020,ElecTech Sistemas SL,Bienes Industriales,Consultoria Internacional Recurrente,221400.0,2024-02-01,27,activo,100,
+CLI-021,EnerRenovables Solar SA,Bienes Industriales,Consultoria Internacional Recurrente,313600.0,2023-09-01,32,activo,100,
+CLI-022,Soluciones Logisticas ML,Bienes Industriales,Consultoria Internacional Recurrente,195000.0,2024-03-01,26,activo,100,
+CLI-023,Bodegas Montealto SA,Vinos y Bebidas,Consultoria Internacional Recurrente,184000.0,2024-06-01,23,activo,100,
+CLI-024,Vinedos del Valle SL,Vinos y Bebidas,Consultoria Internacional Recurrente,144000.0,2024-05-01,24,activo,100,
+CLI-025,Destilerias del Sur SL,Vinos y Bebidas,Consultoria Internacional Recurrente,124800.0,2023-11-01,16,finalizado,100,2025-02-01
+CLI-026,Bodegas Solariego SA,Vinos y Bebidas,Consultoria Internacional Recurrente,237500.0,2024-04-01,25,activo,100,
+CLI-027,Cervezas Artesanas Gredos,Vinos y Bebidas,Consultoria Internacional Recurrente,150800.0,2023-12-01,29,activo,100,
+CLI-028,Gourmet Seleccion Espana,Vinos y Bebidas,Consultoria Internacional Recurrente,172800.0,2024-05-01,24,activo,100,
+CLI-029,Destinos Globales SL,Turismo,Consultoria Internacional Recurrente,170000.0,2024-12-01,17,activo,100,
+CLI-030,HotelSun International SA,Turismo,Consultoria Internacional Recurrente,264000.0,2024-07-01,22,activo,100,
+CLI-031,Turismo Rural Experience SL,Turismo,Consultoria Internacional Recurrente,84000.0,2025-05-01,12,activo,100,
+CLI-032,Viajes y Negocios Globales,Turismo,Consultoria Internacional Recurrente,187000.0,2024-07-01,22,activo,100,
+CLI-033,Eventos Corporativos Espana,Turismo,Consultoria Internacional Recurrente,136500.0,2024-08-01,21,activo,100,
+CLI-034,ModaExport Iberica SL,Bienes de Consumo,Consultoria Internacional Recurrente,180000.0,2024-09-01,20,activo,100,
+CLI-035,Hogar Diseno SL,Bienes de Consumo,Consultoria Internacional Recurrente,72000.0,2024-12-01,10,finalizado,100,2025-09-01
+CLI-036,Cosmeticos Natural SL,Bienes de Consumo,Consultoria Internacional Recurrente,60000.0,2025-05-01,12,finalizado,100,2026-04-01
+CLI-037,Juguetes del Mediterraneo,Bienes de Consumo,Consultoria Internacional Recurrente,135000.0,2024-11-01,18,activo,100,
+CLI-038,Calzado Artesano Export SL,Bienes de Consumo,Consultoria Internacional Recurrente,132000.0,2024-07-01,22,activo,100,
+CLI-039,Iluminacion Decorativa SL,Bienes de Consumo,Consultoria Internacional Recurrente,170000.0,2024-09-01,20,activo,100,
+CLI-040,Textil Hogar Internacional,Bienes de Consumo,Consultoria Internacional Recurrente,105000.0,2025-02-01,15,activo,100,
+CLI-041,NexaTech Devices SL,Tecnologia,Plan de Promocion Internacional,19100.0,2023-02-01,4,ganado,100,2023-06-01
+CLI-042,SmartAgro Solutions SA,Agroalimentario,Mision Comercial,26400.0,2023-05-01,1,perdido,0,2023-05-16
+CLI-043,Maquinaria del Sur SL,Bienes Industriales,Campana de Marketing Internacional,15900.0,2025-02-01,2,ganado,100,2025-04-02
+CLI-044,Vinedos Solariegos SL,Vinos y Bebidas,Mision Comercial,17200.0,2023-12-01,1,ganado,100,2023-12-31
+CLI-045,Travel Experience Group,Turismo,Campana de Marketing Internacional,16300.0,2023-04-01,2,ganado,100,2023-05-31
+CLI-046,Diseno y Hogar SA,Bienes de Consumo,Plan de Promocion Internacional,16500.0,2024-02-01,6,ganado,100,2024-07-30
+CLI-047,Sistemas Embebidos SA,Tecnologia,Plan Integral de Internacionalizacion,56100.0,2024-03-01,10,ganado,100,2024-12-26
+CLI-048,Bioagro Export SL,Agroalimentario,Plan Integral de Internacionalizacion,47600.0,2024-12-01,10,ganado,100,2025-09-27
+CLI-049,Componentes del Valles SL,Bienes Industriales,Mision Comercial,29600.0,2024-08-01,2,ganado,100,2024-09-30
+CLI-050,Destileria Artesana SL,Vinos y Bebidas,Campana de Marketing Internacional,8900.0,2024-11-01,4,ganado,100,2025-03-01
+CLI-051,Hoteles con Encanto SL,Turismo,Plan de Promocion Internacional,24400.0,2024-07-01,4,ganado,100,2024-10-29
+CLI-052,Calzados Deportivos SL,Bienes de Consumo,Plan de Promocion Internacional,32200.0,2023-03-01,6,ganado,100,2023-08-28
+CLI-053,Cloud Infrastructure SL,Tecnologia,Plan de Promocion Internacional,28400.0,2023-08-01,4,ganado,100,2023-11-29
+CLI-054,Conservas del Atlantico SA,Agroalimentario,Plan Integral de Internacionalizacion,59700.0,2025-08-01,13,en_curso,43,
+CLI-055,Equipos Industriales ML,Bienes Industriales,Plan de Promocion Internacional,26700.0,2024-06-01,4,ganado,100,2024-09-29
+CLI-056,Bodegas del Duero SA,Vinos y Bebidas,Campana de Marketing Internacional,13700.0,2025-06-01,2,ganado,100,2025-07-31
+CLI-057,Turismo Activo SL,Turismo,Plan Integral de Internacionalizacion,44600.0,2024-11-01,7,perdido,0,2025-02-14
+CLI-058,Muebles de Diseno SL,Bienes de Consumo,Plan de Promocion Internacional,25800.0,2025-01-01,5,ganado,100,2025-05-31
+CLI-059,RoboTech Solutions SL,Tecnologia,Plan Integral de Internacionalizacion,45900.0,2025-10-01,11,en_curso,51,
+CLI-060,Pescados y Mariscos del Norte,Agroalimentario,Mision Comercial,25900.0,2023-02-01,2,perdido,0,2023-03-03
+CLI-061,Talleres Mecanicos del Sur,Bienes Industriales,Campana de Marketing Internacional,11400.0,2024-09-01,4,ganado,100,2024-12-30
+CLI-062,Crianza y Venta SL,Vinos y Bebidas,Plan Integral de Internacionalizacion,34100.0,2025-09-01,9,en_curso,58,
+CLI-063,Resorts Vacacionales SA,Turismo,Plan de Promocion Internacional,29600.0,2025-01-01,3,ganado,100,2025-04-01
+CLI-064,Textil Moda Internacional,Bienes de Consumo,Campana de Marketing Internacional,11800.0,2025-10-01,2,ganado,100,2025-11-30
+CLI-065,DataCenter Solutions SA,Tecnologia,Plan Integral de Internacionalizacion,43400.0,2023-12-01,13,ganado,100,2024-12-25
+CLI-066,Finca Ecologica SL,Agroalimentario,Plan Integral de Internacionalizacion,49400.0,2025-02-01,12,en_curso,71,
+CLI-067,Metalurgica Avanzada SA,Bienes Industriales,Plan de Promocion Internacional,29600.0,2023-08-01,4,ganado,100,2023-11-29
+CLI-068,Espirituosos Premium SL,Vinos y Bebidas,Plan de Promocion Internacional,26900.0,2025-10-01,5,ganado,100,2026-02-28
+CLI-069,Agencia de Viajes Global,Turismo,Mision Comercial,19700.0,2023-02-01,1,perdido,0,2023-02-16
+CLI-070,Complementos de Moda SL,Bienes de Consumo,Plan Integral de Internacionalizacion,45900.0,2025-08-01,12,en_curso,85,
+CLI-071,Inteligencia Artificial Corp,Tecnologia,Mision Comercial,25200.0,2023-03-01,2,ganado,100,2023-04-30
+CLI-072,Cultivos Hidroponicos SL,Agroalimentario,Plan de Promocion Internacional,15400.0,2024-03-01,3,ganado,100,2024-05-30
+CLI-073,Ingenieria Mecanica SL,Bienes Industriales,Campana de Marketing Internacional,9300.0,2023-06-01,4,ganado,100,2023-09-29
+CLI-074,Licores y Destilados SL,Vinos y Bebidas,Plan Integral de Internacionalizacion,37000.0,2024-08-01,10,ganado,100,2025-05-28
+CLI-075,Agencia de Negocios Global,Turismo,Plan Integral de Internacionalizacion,48900.0,2024-11-01,9,ganado,100,2025-07-29
+CLI-076,Bolsos y Accesorios SL,Bienes de Consumo,Plan Integral de Internacionalizacion,43700.0,2023-03-01,6,perdido,0,2023-05-30
+CLI-077,AgriTech Internacional SA,Agroalimentario,Plan Integral de Internacionalizacion,31100.0,2024-03-01,8,perdido,0,2024-06-29
+CLI-078,Movilidad Electrica SL,Bienes Industriales,Mision Comercial,18700.0,2023-08-01,1,perdido,0,2023-08-16
