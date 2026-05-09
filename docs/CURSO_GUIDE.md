@@ -158,44 +158,40 @@ VISUALIZACION                    ACCION
 
 ### Pendiente de hacer (POR ORDEN):
 
-#### PASO 3: Modelo de Forecasting (30% de la nota)
-Crear un notebook `02_modelo_forecasting.ipynb` que:
+#### PASO 3: Modelo de Forecasting (30% de la nota) ✅ COMPLETADO
+- Notebook: `notebooks/02_modelo_forecasting.ipynb`
+- Modelo entrenado: `models/prophet_model.pkl`
+- Predicciones exportadas: `data/processed/predicciones.csv`
 
-1. Cargue `data/processed/be_expand_consolidado.csv`
-2. Divida en train/test (80/20)
-3. Entrene Prophet y/o LSTM
-4. Prediga la posicion de tesoreria a 30/60/90 dias
-5. Evalue el modelo (MAE, RMSE, MAPE)
-6. Visualice predicciones vs reales
-7. Guarde el modelo entrenado
+#### PASO 4: Dashboard Power BI (20% de la nota) ✅ COMPLETADO
+- Dashboard: `dashboard/be_expand_forecast.pbix`
+- Capturas: `dashboard/captura_resumen.png`, `captura_forecast.png`, `captura_detalle.png`
+- Guia de creacion: `docs/DASHBOARD_GUIDE.md`
 
-**Librerias necesarias:** `pip install prophet scikit-learn tensorflow` (opcional LSTM)
+#### PASO 5: Documento de insights (10% de la nota) ✅ COMPLETADO
+- Documento completo: `docs/DOC_INSIGHTS.md`
+- Incluye resumen ejecutivo, hallazgos y recomendaciones
 
-#### PASO 4: Dashboard Power BI (20% de la nota)
-1. Conectar Power BI a `be_expand_consolidado.csv`
-2. Crear dashboard con forecast a 30/60/90 dias
-3. Anadir segmentadores por periodo y tipo
-4. Generar Smart Narrative con Copilot
-5. Capturar pantalla del dashboard
+#### PASO EXTRA: Alertas por Telegram (completado) ✅
+- Script: `scripts/telegram_alert.py`
+- Envia alerta al CFO cuando la tesoreria peligra en ~45 dias
+- Incluye prediccion, intervalo de confianza y recomendacion financiera
+- Configurar: `python scripts/telegram_alert.py --setup`
+- Verificar: `python scripts/telegram_alert.py --check`
+- Probar: `python scripts/telegram_alert.py --test`
+- Programar en Windows Task Scheduler para ejecucion diaria
 
-#### PASO 5: Documento de insights (10% de la nota)
-1. Resumen ejecutivo de una pagina
-2. Principales hallazgos del modelo
-3. Recomendaciones para BeExpand
-
-#### PASO EXTRA: Alertas con Make
-1. Integrar con Make (antes Integromat)
-2. Enviar alerta a Slack cuando la caja caiga de un umbral
+**Alternativa con Make (Integromat):** Conectar Power BI a Make y de ahi a Slack.
 
 ### Entregables del reto (resumen de la rubrica):
 
 | Entregable | % | Estado |
 |------------|---|--------|
-| Extraccion de datos | 20% | COMPLETADO |
-| Notebook con modelo forecasting | 30% | PENDIENTE |
-| Deteccion de anomalias | 20% | COMPLETADO |
-| Dashboard Power BI | 20% | PENDIENTE |
-| Smart Narratives | 10% | PENDIENTE |
+| Extraccion de datos | 20% | ✅ COMPLETADO |
+| Deteccion de anomalias | 20% | ✅ COMPLETADO |
+| Notebook con modelo forecasting | 30% | ✅ COMPLETADO |
+| Dashboard Power BI | 20% | ✅ COMPLETADO |
+| Smart Narratives / Insights | 10% | ✅ COMPLETADO |
 
 ---
 
